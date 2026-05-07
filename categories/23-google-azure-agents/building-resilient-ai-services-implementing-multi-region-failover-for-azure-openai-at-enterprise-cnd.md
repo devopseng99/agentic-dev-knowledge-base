@@ -1,0 +1,1 @@
+../../articles/building-resilient-ai-services-implementing-multi-region-failover-for-azure-openai-at-enterprise-cnd.md

@@ -1,0 +1,1 @@
+../../articles/beyond-yaml-building-kubernetes-operators-with-crds-and-the-reconciliation-loop-524d.md

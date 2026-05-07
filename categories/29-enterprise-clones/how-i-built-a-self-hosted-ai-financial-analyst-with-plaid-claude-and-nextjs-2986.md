@@ -1,0 +1,1 @@
+../../articles/how-i-built-a-self-hosted-ai-financial-analyst-with-plaid-claude-and-nextjs-2986.md

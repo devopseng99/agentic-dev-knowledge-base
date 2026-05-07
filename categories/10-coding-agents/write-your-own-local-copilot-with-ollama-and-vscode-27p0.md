@@ -1,0 +1,1 @@
+../../articles/write-your-own-local-copilot-with-ollama-and-vscode-27p0.md

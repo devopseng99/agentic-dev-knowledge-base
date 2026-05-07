@@ -1,0 +1,1 @@
+../../articles/automating-quality-control-queries-with-ai-assistance-3jm1.md

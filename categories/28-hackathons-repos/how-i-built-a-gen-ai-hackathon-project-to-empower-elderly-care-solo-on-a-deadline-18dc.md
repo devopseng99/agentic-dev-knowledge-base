@@ -1,0 +1,1 @@
+../../articles/how-i-built-a-gen-ai-hackathon-project-to-empower-elderly-care-solo-on-a-deadline-18dc.md

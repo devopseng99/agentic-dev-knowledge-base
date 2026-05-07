@@ -1,0 +1,1 @@
+../../articles/building-ai-powered-applications-with-c-and-semantic-kernel-an2.md

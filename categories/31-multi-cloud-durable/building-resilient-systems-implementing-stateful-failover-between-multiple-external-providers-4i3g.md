@@ -1,0 +1,1 @@
+../../articles/building-resilient-systems-implementing-stateful-failover-between-multiple-external-providers-4i3g.md

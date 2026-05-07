@@ -1,0 +1,1 @@
+../../articles/expose-your-app-to-ai-agents-in-30-minutes-a-mcp-integration-pattern-55fi.md

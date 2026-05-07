@@ -1,0 +1,1 @@
+../../articles/semantic-search-with-haystack-and-elastic-2ihm.md

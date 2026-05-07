@@ -1,0 +1,1 @@
+../../articles/simplify-aws-resource-access-with-eks-pod-identity-agent-and-python-sdk-540k.md

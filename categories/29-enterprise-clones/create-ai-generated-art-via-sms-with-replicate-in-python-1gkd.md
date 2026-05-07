@@ -1,0 +1,1 @@
+../../articles/create-ai-generated-art-via-sms-with-replicate-in-python-1gkd.md

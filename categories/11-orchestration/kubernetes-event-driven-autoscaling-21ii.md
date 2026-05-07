@@ -1,0 +1,1 @@
+../../articles/kubernetes-event-driven-autoscaling-21ii.md

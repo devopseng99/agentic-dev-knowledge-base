@@ -1,0 +1,1 @@
+../../articles/bringing-intelligence-to-the-assembly-line-ai-for-quality-control-in-manufacturing-50c6.md

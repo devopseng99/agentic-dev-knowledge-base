@@ -1,0 +1,1 @@
+../../articles/how-to-remove-surfaced-with-azure-openai-in-copilot-studio-agent-response-4m8c.md

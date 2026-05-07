@@ -1,0 +1,1 @@
+../../articles/gemini-cli-full-tutorial-2ab5.md

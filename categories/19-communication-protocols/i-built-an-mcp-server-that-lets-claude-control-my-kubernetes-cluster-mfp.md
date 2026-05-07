@@ -1,1 +1,0 @@
-../../articles/i-built-an-mcp-server-that-lets-claude-control-my-kubernetes-cluster-mfp.md

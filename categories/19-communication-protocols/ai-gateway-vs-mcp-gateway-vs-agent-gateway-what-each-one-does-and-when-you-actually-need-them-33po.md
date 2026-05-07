@@ -1,1 +1,0 @@
-../../articles/ai-gateway-vs-mcp-gateway-vs-agent-gateway-what-each-one-does-and-when-you-actually-need-them-33po.md

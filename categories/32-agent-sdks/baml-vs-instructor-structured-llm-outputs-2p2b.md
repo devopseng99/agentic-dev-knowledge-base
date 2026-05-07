@@ -1,0 +1,1 @@
+../../articles/baml-vs-instructor-structured-llm-outputs-2p2b.md

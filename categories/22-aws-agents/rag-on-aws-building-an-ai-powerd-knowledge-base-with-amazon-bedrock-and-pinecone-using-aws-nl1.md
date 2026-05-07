@@ -1,0 +1,1 @@
+../../articles/rag-on-aws-building-an-ai-powerd-knowledge-base-with-amazon-bedrock-and-pinecone-using-aws-nl1.md

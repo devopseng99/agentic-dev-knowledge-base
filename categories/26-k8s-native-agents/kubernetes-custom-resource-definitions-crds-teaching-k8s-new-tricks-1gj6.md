@@ -1,0 +1,1 @@
+../../articles/kubernetes-custom-resource-definitions-crds-teaching-k8s-new-tricks-1gj6.md

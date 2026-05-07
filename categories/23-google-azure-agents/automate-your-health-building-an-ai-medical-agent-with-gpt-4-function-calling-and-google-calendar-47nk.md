@@ -1,0 +1,1 @@
+../../articles/automate-your-health-building-an-ai-medical-agent-with-gpt-4-function-calling-and-google-calendar-47nk.md

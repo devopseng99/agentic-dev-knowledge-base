@@ -1,0 +1,1 @@
+../../articles/google-clouds-agent-ops-stack-why-deployment-is-no-longer-the-hard-part-g3k.md

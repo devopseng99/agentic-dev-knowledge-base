@@ -1,0 +1,1 @@
+../../articles/understanding-a2a-acp-and-mcp-in-the-agentic-ai-world-through-the-lens-of-human-communication-2a1g.md

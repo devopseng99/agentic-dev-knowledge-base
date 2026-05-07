@@ -1,0 +1,1 @@
+../../articles/using-model-context-protocol-with-rig-m7o.md

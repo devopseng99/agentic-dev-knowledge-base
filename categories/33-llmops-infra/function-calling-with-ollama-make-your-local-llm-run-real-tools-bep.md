@@ -1,0 +1,1 @@
+../../articles/function-calling-with-ollama-make-your-local-llm-run-real-tools-bep.md

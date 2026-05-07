@@ -1,0 +1,1 @@
+../../articles/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41.md

@@ -1,0 +1,1 @@
+../../articles/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk.md

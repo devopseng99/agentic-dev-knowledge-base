@@ -1,0 +1,1 @@
+../../articles/rag-made-serverless-amazon-bedrock-knowledge-base-with-spring-ai-2dn9.md

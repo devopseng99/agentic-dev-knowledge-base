@@ -1,0 +1,1 @@
+../../articles/rag-pipelines-in-production-vector-database-benchmarks-chunking-strategies-and-hybrid-search-data-gbl.md

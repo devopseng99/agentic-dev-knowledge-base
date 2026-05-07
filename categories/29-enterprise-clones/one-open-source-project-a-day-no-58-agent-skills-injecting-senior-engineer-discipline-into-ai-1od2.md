@@ -1,0 +1,1 @@
+../../articles/one-open-source-project-a-day-no-58-agent-skills-injecting-senior-engineer-discipline-into-ai-1od2.md

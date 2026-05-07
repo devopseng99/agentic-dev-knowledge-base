@@ -1,0 +1,1 @@
+../../articles/i-ditched-my-ai-agent-dashboard-for-obsidian-37la.md

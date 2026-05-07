@@ -1,0 +1,1 @@
+../../articles/from-zero-to-genai-cluster-scalable-local-llms-with-docker-kubernetes-and-gpu-scheduling-47on.md

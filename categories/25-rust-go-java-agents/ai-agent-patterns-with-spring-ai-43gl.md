@@ -1,0 +1,1 @@
+../../articles/ai-agent-patterns-with-spring-ai-43gl.md

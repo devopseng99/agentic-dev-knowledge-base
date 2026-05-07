@@ -1,0 +1,1 @@
+../../articles/how-to-use-autogen-1cpk.md

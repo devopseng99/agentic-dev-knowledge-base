@@ -1,0 +1,1 @@
+../../articles/introduction-to-k8sgpt-simplifying-kubernetes-troubleshooting-part-1-572n.md

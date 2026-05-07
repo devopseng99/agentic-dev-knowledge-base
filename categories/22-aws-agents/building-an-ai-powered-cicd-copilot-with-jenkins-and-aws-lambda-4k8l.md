@@ -1,0 +1,1 @@
+../../articles/building-an-ai-powered-cicd-copilot-with-jenkins-and-aws-lambda-4k8l.md

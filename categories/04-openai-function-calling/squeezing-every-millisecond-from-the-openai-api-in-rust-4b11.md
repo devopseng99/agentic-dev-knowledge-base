@@ -1,0 +1,1 @@
+../../articles/squeezing-every-millisecond-from-the-openai-api-in-rust-4b11.md

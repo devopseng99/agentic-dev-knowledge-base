@@ -1,0 +1,1 @@
+../../articles/how-to-create-your-own-custom-chatgpt-like-chatbot-in-less-than-5-minutes-using-your-own-data-and-no-openai-api-9hb.md

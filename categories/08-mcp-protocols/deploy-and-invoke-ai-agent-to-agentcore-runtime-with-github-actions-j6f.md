@@ -1,1 +1,0 @@
-../../articles/deploy-and-invoke-ai-agent-to-agentcore-runtime-with-github-actions-j6f.md

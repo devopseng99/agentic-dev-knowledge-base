@@ -1,0 +1,1 @@
+../../articles/in-depth-research-report-on-google-agent2agent-a2a-protocol-2m2a.md

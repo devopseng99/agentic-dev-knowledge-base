@@ -1,0 +1,1 @@
+../../articles/part-1-why-i-chose-amazon-bedrock-agentcore-and-what-lambda-gets-wrong-for-ai-agents-jm3.md

@@ -1,1 +1,0 @@
-../../articles/why-you-need-an-mcp-gateway-for-enterprise-ai-agents-3537.md

@@ -1,0 +1,1 @@
+../../articles/googles-new-move-how-does-the-a2a-protocol-enable-ai-agents-to-add-friends-3iff.md

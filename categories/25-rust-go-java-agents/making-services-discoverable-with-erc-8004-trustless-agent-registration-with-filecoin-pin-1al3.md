@@ -1,0 +1,1 @@
+../../articles/making-services-discoverable-with-erc-8004-trustless-agent-registration-with-filecoin-pin-1al3.md

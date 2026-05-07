@@ -1,0 +1,1 @@
+../../articles/keda-kubernetes-event-driven-autoscaling-3e8n.md

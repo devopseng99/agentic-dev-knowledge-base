@@ -1,0 +1,1 @@
+../../articles/understanding-microsoft-azure-openai-assistants-a-quick-guide-2il0.md

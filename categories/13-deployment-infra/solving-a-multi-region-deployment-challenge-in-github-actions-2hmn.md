@@ -1,0 +1,1 @@
+../../articles/solving-a-multi-region-deployment-challenge-in-github-actions-2hmn.md

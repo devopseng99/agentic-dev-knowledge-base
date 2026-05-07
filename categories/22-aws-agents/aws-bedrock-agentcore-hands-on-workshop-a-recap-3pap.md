@@ -1,0 +1,1 @@
+../../articles/aws-bedrock-agentcore-hands-on-workshop-a-recap-3pap.md

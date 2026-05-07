@@ -1,0 +1,1 @@
+../../articles/build-a-c-console-chatbot-with-semantic-kernel-azure-openai-27og.md

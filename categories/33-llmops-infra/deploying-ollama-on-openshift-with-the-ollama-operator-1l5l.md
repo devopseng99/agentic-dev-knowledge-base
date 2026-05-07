@@ -1,0 +1,1 @@
+../../articles/deploying-ollama-on-openshift-with-the-ollama-operator-1l5l.md

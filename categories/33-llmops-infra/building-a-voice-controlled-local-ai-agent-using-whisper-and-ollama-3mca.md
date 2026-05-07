@@ -1,0 +1,1 @@
+../../articles/building-a-voice-controlled-local-ai-agent-using-whisper-and-ollama-3mca.md

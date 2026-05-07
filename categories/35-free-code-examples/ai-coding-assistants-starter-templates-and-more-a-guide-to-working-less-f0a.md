@@ -1,0 +1,1 @@
+../../articles/ai-coding-assistants-starter-templates-and-more-a-guide-to-working-less-f0a.md

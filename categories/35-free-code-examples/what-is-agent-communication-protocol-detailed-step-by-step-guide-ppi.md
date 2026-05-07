@@ -1,0 +1,1 @@
+../../articles/what-is-agent-communication-protocol-detailed-step-by-step-guide-ppi.md

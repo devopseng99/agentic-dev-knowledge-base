@@ -1,0 +1,1 @@
+../../articles/how-to-scale-your-aws-architecture-from-ec2-to-multi-region-deployment-5ag7.md

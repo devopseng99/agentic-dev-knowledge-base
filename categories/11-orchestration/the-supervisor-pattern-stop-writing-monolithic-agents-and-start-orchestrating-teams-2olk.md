@@ -1,1 +1,0 @@
-../../articles/the-supervisor-pattern-stop-writing-monolithic-agents-and-start-orchestrating-teams-2olk.md

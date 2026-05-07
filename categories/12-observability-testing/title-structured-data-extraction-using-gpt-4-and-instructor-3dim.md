@@ -1,0 +1,1 @@
+../../articles/title-structured-data-extraction-using-gpt-4-and-instructor-3dim.md

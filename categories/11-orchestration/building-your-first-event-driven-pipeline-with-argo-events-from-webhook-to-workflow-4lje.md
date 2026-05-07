@@ -1,0 +1,1 @@
+../../articles/building-your-first-event-driven-pipeline-with-argo-events-from-webhook-to-workflow-4lje.md

@@ -1,0 +1,1 @@
+../../articles/nuxt-cloudflare-queues-building-a-data-sync-pipeline-using-vectorize-4ocg.md

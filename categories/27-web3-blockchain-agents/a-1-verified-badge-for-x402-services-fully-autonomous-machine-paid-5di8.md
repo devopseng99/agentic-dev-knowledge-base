@@ -1,0 +1,1 @@
+../../articles/a-1-verified-badge-for-x402-services-fully-autonomous-machine-paid-5di8.md

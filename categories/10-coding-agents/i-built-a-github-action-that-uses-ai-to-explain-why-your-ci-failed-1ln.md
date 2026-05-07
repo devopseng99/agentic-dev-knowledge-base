@@ -1,1 +1,0 @@
-../../articles/i-built-a-github-action-that-uses-ai-to-explain-why-your-ci-failed-1ln.md

@@ -1,0 +1,1 @@
+../../articles/a2ui-in-practice-build-agent-to-user-interfaces-using-a2a-ag-ui-3ng5.md

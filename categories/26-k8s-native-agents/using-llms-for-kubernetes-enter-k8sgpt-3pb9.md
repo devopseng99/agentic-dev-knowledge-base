@@ -1,0 +1,1 @@
+../../articles/using-llms-for-kubernetes-enter-k8sgpt-3pb9.md

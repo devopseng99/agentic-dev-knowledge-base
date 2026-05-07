@@ -1,1 +1,0 @@
-../../articles/complete-guide-to-mcp-model-context-protocol-in-2026-architecture-implementation-and-4a11.md

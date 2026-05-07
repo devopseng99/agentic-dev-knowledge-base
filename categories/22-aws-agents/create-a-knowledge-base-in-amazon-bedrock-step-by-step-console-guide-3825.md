@@ -1,0 +1,1 @@
+../../articles/create-a-knowledge-base-in-amazon-bedrock-step-by-step-console-guide-3825.md

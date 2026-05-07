@@ -1,0 +1,1 @@
+../../articles/creating-a-custom-resource-definition-in-kubernetes-2k7o.md

@@ -1,0 +1,1 @@
+../../articles/building-an-ai-powered-second-brain-in-a-cloudflare-worker-with-cloudflare-vectorize-and-openai-23di.md

@@ -1,1 +1,0 @@
-../../articles/how-i-automated-my-workflow-with-github-actions-agency-level-setup-in-minutes-3ell.md

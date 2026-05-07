@@ -1,0 +1,1 @@
+../../articles/introducing-kubeai-open-ai-inference-operator-4hm3.md

@@ -1,0 +1,1 @@
+../../articles/how-to-verify-any-smart-contract-or-ai-agent-before-you-transact-44b2.md

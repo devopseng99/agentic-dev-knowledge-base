@@ -1,0 +1,1 @@
+../../articles/why-kafka-a-developer-friendly-guide-to-event-driven-architecture-4ekf.md

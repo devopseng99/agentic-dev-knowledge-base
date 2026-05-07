@@ -1,0 +1,1 @@
+../../articles/amazon-bedrock-agentcore-gateway-part-1-introduction-1pjl.md

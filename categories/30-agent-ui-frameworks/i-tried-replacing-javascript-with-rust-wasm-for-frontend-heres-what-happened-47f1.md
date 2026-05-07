@@ -1,0 +1,1 @@
+../../articles/i-tried-replacing-javascript-with-rust-wasm-for-frontend-heres-what-happened-47f1.md

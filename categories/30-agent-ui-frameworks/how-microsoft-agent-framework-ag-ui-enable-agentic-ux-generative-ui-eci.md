@@ -1,0 +1,1 @@
+../../articles/how-microsoft-agent-framework-ag-ui-enable-agentic-ux-generative-ui-eci.md

@@ -1,0 +1,1 @@
+../../articles/create-architecture-diagrams-in-seconds-with-the-amazon-q-developer-cli-agent-1110.md

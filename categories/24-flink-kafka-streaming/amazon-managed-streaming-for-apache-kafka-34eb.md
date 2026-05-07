@@ -1,0 +1,1 @@
+../../articles/amazon-managed-streaming-for-apache-kafka-34eb.md

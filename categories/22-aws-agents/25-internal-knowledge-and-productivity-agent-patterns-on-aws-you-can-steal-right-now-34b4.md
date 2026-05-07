@@ -1,0 +1,1 @@
+../../articles/25-internal-knowledge-and-productivity-agent-patterns-on-aws-you-can-steal-right-now-34b4.md

@@ -1,0 +1,1 @@
+../../articles/adk-agents-with-amazon-bedrock-2j8c.md

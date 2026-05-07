@@ -1,0 +1,1 @@
+../../articles/implementing-kubernetes-pod-security-standards-4aco.md

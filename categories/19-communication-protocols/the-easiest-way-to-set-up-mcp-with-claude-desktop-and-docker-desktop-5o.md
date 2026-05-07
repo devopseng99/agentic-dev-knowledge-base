@@ -1,1 +1,0 @@
-../../articles/the-easiest-way-to-set-up-mcp-with-claude-desktop-and-docker-desktop-5o.md

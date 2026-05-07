@@ -1,0 +1,1 @@
+../../articles/implementing-design-patterns-for-agentic-ai-with-rig-rust-1o71.md

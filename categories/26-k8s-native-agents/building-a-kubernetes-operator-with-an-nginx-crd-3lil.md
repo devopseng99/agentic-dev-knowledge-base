@@ -1,0 +1,1 @@
+../../articles/building-a-kubernetes-operator-with-an-nginx-crd-3lil.md

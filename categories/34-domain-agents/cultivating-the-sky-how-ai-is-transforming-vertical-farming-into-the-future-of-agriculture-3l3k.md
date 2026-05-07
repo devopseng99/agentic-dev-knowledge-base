@@ -1,0 +1,1 @@
+../../articles/cultivating-the-sky-how-ai-is-transforming-vertical-farming-into-the-future-of-agriculture-3l3k.md

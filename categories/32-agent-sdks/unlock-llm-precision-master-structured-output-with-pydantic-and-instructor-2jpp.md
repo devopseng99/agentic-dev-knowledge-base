@@ -1,0 +1,1 @@
+../../articles/unlock-llm-precision-master-structured-output-with-pydantic-and-instructor-2jpp.md

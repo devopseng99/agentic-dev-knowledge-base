@@ -1,0 +1,1 @@
+../../articles/vertex-ai-agent-tools-connect-your-agent-to-apis-with-adk-and-terraform-328n.md

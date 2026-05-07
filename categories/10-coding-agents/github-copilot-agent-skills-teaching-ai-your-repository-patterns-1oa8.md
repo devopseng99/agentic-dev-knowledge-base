@@ -1,0 +1,1 @@
+../../articles/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8.md

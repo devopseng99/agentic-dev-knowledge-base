@@ -1,0 +1,1 @@
+../../articles/deploy-your-first-vertex-ai-agent-with-terraform-and-adk-model-agnostic-and-future-proof-1en.md

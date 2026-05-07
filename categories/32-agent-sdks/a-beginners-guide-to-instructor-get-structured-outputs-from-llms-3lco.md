@@ -1,0 +1,1 @@
+../../articles/a-beginners-guide-to-instructor-get-structured-outputs-from-llms-3lco.md

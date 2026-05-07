@@ -1,0 +1,1 @@
+../../articles/how-to-connect-cursor-to-100-mcp-servers-within-minutes-3h74.md

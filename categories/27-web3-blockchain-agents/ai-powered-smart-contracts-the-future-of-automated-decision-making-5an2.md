@@ -1,0 +1,1 @@
+../../articles/ai-powered-smart-contracts-the-future-of-automated-decision-making-5an2.md

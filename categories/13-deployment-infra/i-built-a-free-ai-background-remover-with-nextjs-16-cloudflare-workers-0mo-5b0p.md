@@ -1,1 +1,0 @@
-../../articles/i-built-a-free-ai-background-remover-with-nextjs-16-cloudflare-workers-0mo-5b0p.md

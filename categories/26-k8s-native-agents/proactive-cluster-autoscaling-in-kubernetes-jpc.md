@@ -1,0 +1,1 @@
+../../articles/proactive-cluster-autoscaling-in-kubernetes-jpc.md

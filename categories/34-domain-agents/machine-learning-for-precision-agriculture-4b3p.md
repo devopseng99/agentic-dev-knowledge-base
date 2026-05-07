@@ -1,0 +1,1 @@
+../../articles/machine-learning-for-precision-agriculture-4b3p.md

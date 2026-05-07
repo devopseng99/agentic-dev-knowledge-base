@@ -1,0 +1,1 @@
+../../articles/karpenter-tool-for-autoscaling-kubernetes-clusters-eph.md

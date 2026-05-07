@@ -1,0 +1,1 @@
+../../articles/azure-ai-agent-service-part-2-extending-agents-with-tools-function-calling-and-file-search-3hcm.md

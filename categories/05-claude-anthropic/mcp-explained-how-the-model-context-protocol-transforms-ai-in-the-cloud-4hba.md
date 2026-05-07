@@ -1,1 +1,0 @@
-../../articles/mcp-explained-how-the-model-context-protocol-transforms-ai-in-the-cloud-4hba.md

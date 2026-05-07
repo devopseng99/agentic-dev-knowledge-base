@@ -1,1 +1,0 @@
-../../articles/claude-skills-vs-mcp-complete-guide-to-token-efficient-ai-agent-architecture-4mkf.md

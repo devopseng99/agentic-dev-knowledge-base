@@ -1,0 +1,1 @@
+../../articles/generate-qa-from-wikipedia-pages-with-pydantic-instructor-and-phi-3-llm-o0i.md

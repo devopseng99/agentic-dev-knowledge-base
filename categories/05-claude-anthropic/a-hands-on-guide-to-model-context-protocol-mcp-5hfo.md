@@ -1,1 +1,0 @@
-../../articles/a-hands-on-guide-to-model-context-protocol-mcp-5hfo.md

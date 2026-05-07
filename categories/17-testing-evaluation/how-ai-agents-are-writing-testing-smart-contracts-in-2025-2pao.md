@@ -1,0 +1,1 @@
+../../articles/how-ai-agents-are-writing-testing-smart-contracts-in-2025-2pao.md

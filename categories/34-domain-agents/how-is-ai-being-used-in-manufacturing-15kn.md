@@ -1,0 +1,1 @@
+../../articles/how-is-ai-being-used-in-manufacturing-15kn.md

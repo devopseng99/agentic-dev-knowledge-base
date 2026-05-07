@@ -1,0 +1,1 @@
+../../articles/building-ai-agent-to-interact-with-smart-contract-ob2.md

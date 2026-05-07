@@ -1,1 +1,0 @@
-../../articles/hivemind-multi-agent-collaboration-protocol-for-openclaw-3k05.md

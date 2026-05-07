@@ -1,0 +1,1 @@
+../../articles/using-a-knowledge-base-to-connect-amazon-bedrock-to-your-custom-data-2gd9.md

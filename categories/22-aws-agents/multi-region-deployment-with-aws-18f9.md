@@ -1,0 +1,1 @@
+../../articles/multi-region-deployment-with-aws-18f9.md

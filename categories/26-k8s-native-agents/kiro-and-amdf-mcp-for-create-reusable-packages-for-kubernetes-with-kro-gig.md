@@ -1,0 +1,1 @@
+../../articles/kiro-and-amdf-mcp-for-create-reusable-packages-for-kubernetes-with-kro-gig.md

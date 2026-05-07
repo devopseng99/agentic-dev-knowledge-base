@@ -1,0 +1,1 @@
+../../articles/bedrock-cross-region-inference-tackling-ratelimits-and-regional-availability-of-inference-59i8.md

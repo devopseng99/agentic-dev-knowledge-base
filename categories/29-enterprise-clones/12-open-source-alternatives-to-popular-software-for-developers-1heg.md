@@ -1,0 +1,1 @@
+../../articles/12-open-source-alternatives-to-popular-software-for-developers-1heg.md

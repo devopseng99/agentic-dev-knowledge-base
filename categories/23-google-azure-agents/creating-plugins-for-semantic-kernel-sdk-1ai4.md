@@ -1,0 +1,1 @@
+../../articles/creating-plugins-for-semantic-kernel-sdk-1ai4.md

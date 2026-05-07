@@ -1,0 +1,1 @@
+../../articles/the-power-of-smart-contracts-automating-trust-in-the-digital-age-3bko.md

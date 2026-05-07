@@ -1,1 +1,0 @@
-../../articles/a-practical-guide-to-agent-to-agent-a2a-protocol-31fd.md

@@ -1,0 +1,1 @@
+../../articles/ship-your-ai-model-to-production-in-minutes-with-replicate-p11.md

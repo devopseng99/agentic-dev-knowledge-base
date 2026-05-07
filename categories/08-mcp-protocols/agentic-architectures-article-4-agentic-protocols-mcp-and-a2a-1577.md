@@ -1,0 +1,1 @@
+../../articles/agentic-architectures-article-4-agentic-protocols-mcp-and-a2a-1577.md

@@ -1,0 +1,1 @@
+../../articles/how-to-use-google-gemini-ai-for-agriculture-productivity-556.md

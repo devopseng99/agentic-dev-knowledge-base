@@ -1,0 +1,1 @@
+../../articles/autoscaling-in-kubernetes-keda-karpenter-and-native-autoscalers-1gpo.md

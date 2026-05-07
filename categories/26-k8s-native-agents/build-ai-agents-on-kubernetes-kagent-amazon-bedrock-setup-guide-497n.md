@@ -1,0 +1,1 @@
+../../articles/build-ai-agents-on-kubernetes-kagent-amazon-bedrock-setup-guide-497n.md

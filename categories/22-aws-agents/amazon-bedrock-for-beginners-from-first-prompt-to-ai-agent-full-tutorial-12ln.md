@@ -1,0 +1,1 @@
+../../articles/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln.md

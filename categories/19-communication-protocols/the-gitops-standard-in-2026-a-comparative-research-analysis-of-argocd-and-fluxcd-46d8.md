@@ -1,0 +1,1 @@
+../../articles/the-gitops-standard-in-2026-a-comparative-research-analysis-of-argocd-and-fluxcd-46d8.md

@@ -1,1 +1,0 @@
-../../articles/i-built-2-mcp-servers-that-make-claude-a-financial-analyst-and-seo-auditor-458h.md

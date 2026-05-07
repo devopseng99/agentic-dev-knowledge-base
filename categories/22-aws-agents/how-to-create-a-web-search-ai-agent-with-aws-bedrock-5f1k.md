@@ -1,0 +1,1 @@
+../../articles/how-to-create-a-web-search-ai-agent-with-aws-bedrock-5f1k.md

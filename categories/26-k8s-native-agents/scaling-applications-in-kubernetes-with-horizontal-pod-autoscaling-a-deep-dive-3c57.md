@@ -1,0 +1,1 @@
+../../articles/scaling-applications-in-kubernetes-with-horizontal-pod-autoscaling-a-deep-dive-3c57.md

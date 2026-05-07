@@ -1,0 +1,1 @@
+../../articles/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-4-add-tools-3g18.md

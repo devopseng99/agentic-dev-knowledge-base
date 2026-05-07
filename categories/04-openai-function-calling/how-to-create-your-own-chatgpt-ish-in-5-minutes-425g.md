@@ -1,0 +1,1 @@
+../../articles/how-to-create-your-own-chatgpt-ish-in-5-minutes-425g.md

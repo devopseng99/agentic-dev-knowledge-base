@@ -1,0 +1,1 @@
+../../articles/hacking-the-helm-operator-with-flux-creating-self-installable-services-for-easier-app-deployment-5a8l.md

@@ -1,0 +1,1 @@
+../../articles/devops-portfolio-project-jenkins-cicd-pipeline-with-docker-dynamic-agents-hmn.md

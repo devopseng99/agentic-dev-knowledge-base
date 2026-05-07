@@ -1,0 +1,1 @@
+../../articles/from-scans-to-structured-data-converting-medical-reports-to-json-with-pydantic-llms-4am7.md

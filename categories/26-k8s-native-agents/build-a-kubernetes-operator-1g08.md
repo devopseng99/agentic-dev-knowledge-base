@@ -1,0 +1,1 @@
+../../articles/build-a-kubernetes-operator-1g08.md

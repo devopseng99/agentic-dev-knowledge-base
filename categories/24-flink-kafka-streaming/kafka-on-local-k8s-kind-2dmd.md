@@ -1,0 +1,1 @@
+../../articles/kafka-on-local-k8s-kind-2dmd.md

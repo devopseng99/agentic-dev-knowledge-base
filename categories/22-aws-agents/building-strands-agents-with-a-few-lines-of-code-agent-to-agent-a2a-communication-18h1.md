@@ -1,0 +1,1 @@
+../../articles/building-strands-agents-with-a-few-lines-of-code-agent-to-agent-a2a-communication-18h1.md

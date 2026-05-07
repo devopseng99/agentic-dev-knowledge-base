@@ -1,0 +1,1 @@
+../../articles/boosting-manufacturing-efficiency-how-ai-image-recognition-transforms-quality-control-4j17.md

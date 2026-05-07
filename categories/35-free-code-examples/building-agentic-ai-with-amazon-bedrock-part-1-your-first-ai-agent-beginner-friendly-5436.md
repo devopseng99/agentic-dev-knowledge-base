@@ -1,0 +1,1 @@
+../../articles/building-agentic-ai-with-amazon-bedrock-part-1-your-first-ai-agent-beginner-friendly-5436.md

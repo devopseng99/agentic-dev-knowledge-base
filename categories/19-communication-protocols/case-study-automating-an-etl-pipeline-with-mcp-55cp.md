@@ -1,1 +1,0 @@
-../../articles/case-study-automating-an-etl-pipeline-with-mcp-55cp.md

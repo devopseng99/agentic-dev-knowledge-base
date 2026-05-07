@@ -1,0 +1,1 @@
+../../articles/kubernetes-troubleshooting-with-k8sgpt-amazon-bedrock-1m5a.md

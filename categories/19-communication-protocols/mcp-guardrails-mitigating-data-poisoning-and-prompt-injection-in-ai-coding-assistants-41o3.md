@@ -1,1 +1,0 @@
-../../articles/mcp-guardrails-mitigating-data-poisoning-and-prompt-injection-in-ai-coding-assistants-41o3.md

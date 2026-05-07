@@ -1,0 +1,1 @@
+../../articles/easy-deployment-of-vertex-ai-agent-engine-with-vaiae-m84.md

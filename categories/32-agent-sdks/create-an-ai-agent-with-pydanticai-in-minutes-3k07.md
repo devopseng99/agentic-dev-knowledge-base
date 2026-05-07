@@ -1,0 +1,1 @@
+../../articles/create-an-ai-agent-with-pydanticai-in-minutes-3k07.md

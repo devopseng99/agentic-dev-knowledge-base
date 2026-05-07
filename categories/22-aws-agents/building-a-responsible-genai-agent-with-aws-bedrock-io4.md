@@ -1,0 +1,1 @@
+../../articles/building-a-responsible-genai-agent-with-aws-bedrock-io4.md

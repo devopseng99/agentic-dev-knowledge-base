@@ -1,1 +1,0 @@
-../../articles/what-is-mcp-model-context-protocol-and-why-it-needs-a-gateway-in-production-a-practical-guide-3f05.md

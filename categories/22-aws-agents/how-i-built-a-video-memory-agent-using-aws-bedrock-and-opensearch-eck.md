@@ -1,0 +1,1 @@
+../../articles/how-i-built-a-video-memory-agent-using-aws-bedrock-and-opensearch-eck.md

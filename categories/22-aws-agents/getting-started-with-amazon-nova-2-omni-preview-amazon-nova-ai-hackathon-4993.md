@@ -1,0 +1,1 @@
+../../articles/getting-started-with-amazon-nova-2-omni-preview-amazon-nova-ai-hackathon-4993.md

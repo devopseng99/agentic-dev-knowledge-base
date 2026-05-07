@@ -1,0 +1,1 @@
+../../articles/condition-based-access-for-machine-payments-protocol-a-signed-yes-or-no-before-the-charge-3cpm.md

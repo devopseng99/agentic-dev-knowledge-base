@@ -1,0 +1,1 @@
+../../articles/a2a-agent-to-agent-core-concepts-2gp2.md

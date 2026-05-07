@@ -1,0 +1,1 @@
+../../articles/building-an-ai-powered-docker-solution-with-llama-and-k8sgpt-jbj.md

@@ -1,0 +1,1 @@
+../../articles/getting-started-with-pydanticai-basics-for-ai-agents-in-python-4jlo.md

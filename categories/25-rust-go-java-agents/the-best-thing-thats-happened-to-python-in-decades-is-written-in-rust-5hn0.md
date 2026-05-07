@@ -1,0 +1,1 @@
+../../articles/the-best-thing-thats-happened-to-python-in-decades-is-written-in-rust-5hn0.md

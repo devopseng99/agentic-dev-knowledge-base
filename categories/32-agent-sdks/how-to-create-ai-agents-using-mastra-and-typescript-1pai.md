@@ -1,0 +1,1 @@
+../../articles/how-to-create-ai-agents-using-mastra-and-typescript-1pai.md

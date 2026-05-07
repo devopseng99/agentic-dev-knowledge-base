@@ -1,0 +1,1 @@
+../../articles/how-we-saved-10s-of-thousands-of-dollars-deploying-low-cost-open-source-ai-technologies-at-scale-with-kubernetes-57j8.md

@@ -1,0 +1,1 @@
+../../articles/ai-agent-on-aws-bedrock-lambda-api-gateway-3cak.md

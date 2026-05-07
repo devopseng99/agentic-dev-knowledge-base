@@ -1,0 +1,1 @@
+../../articles/performance-test-flink-119-vs-spark-40-vs-kafka-streams-38-windowed-aggregation-throughput-1ma9.md

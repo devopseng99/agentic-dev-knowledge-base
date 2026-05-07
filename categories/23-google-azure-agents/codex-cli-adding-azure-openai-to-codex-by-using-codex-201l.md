@@ -1,0 +1,1 @@
+../../articles/codex-cli-adding-azure-openai-to-codex-by-using-codex-201l.md

@@ -1,0 +1,1 @@
+../../articles/building-an-agent-that-respects-user-permissions-with-aws-bedrock-agentcore-and-entra-id-10f9.md

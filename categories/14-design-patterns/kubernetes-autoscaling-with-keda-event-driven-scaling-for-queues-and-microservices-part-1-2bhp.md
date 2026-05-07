@@ -1,0 +1,1 @@
+../../articles/kubernetes-autoscaling-with-keda-event-driven-scaling-for-queues-and-microservices-part-1-2bhp.md

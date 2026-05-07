@@ -1,0 +1,1 @@
+../../articles/simplifying-kubernetes-management-with-ai-using-k8sgpt-2bjb.md

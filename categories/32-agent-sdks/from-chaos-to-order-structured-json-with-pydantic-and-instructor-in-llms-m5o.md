@@ -1,0 +1,1 @@
+../../articles/from-chaos-to-order-structured-json-with-pydantic-and-instructor-in-llms-m5o.md

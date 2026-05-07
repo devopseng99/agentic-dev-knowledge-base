@@ -1,0 +1,1 @@
+../../articles/building-resilient-organizations-with-multi-agent-systems-1m5n.md

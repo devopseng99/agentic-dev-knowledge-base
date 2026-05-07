@@ -1,0 +1,1 @@
+../../articles/solutions-architect-agent-using-knowledge-bases-for-amazon-bedrock-5he3.md
