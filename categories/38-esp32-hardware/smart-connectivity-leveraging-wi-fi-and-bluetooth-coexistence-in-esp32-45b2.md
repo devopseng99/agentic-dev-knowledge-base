@@ -1,0 +1,1 @@
+../../articles/smart-connectivity-leveraging-wi-fi-and-bluetooth-coexistence-in-esp32-45b2.md

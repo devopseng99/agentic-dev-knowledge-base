@@ -1,0 +1,1 @@
+../../articles/how-ai-is-reshaping-diagnostics-in-healthcare-2pbp.md

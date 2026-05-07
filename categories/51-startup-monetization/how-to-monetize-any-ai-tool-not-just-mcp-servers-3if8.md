@@ -1,0 +1,1 @@
+../../articles/how-to-monetize-any-ai-tool-not-just-mcp-servers-3if8.md

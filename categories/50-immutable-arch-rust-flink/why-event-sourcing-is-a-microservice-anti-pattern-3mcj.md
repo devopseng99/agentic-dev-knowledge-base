@@ -1,0 +1,1 @@
+../../articles/why-event-sourcing-is-a-microservice-anti-pattern-3mcj.md

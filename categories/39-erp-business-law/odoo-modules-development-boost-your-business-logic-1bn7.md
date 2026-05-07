@@ -1,0 +1,1 @@
+../../articles/odoo-modules-development-boost-your-business-logic-1bn7.md

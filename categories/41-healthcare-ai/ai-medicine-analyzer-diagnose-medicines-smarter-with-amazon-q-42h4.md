@@ -1,0 +1,1 @@
+../../articles/ai-medicine-analyzer-diagnose-medicines-smarter-with-amazon-q-42h4.md

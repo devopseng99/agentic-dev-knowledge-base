@@ -1,0 +1,1 @@
+../../articles/creating-yeoman-based-springboot-generator-1o74.md

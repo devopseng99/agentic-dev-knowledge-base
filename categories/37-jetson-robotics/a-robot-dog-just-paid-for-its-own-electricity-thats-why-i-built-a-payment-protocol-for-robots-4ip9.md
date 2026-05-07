@@ -1,0 +1,1 @@
+../../articles/a-robot-dog-just-paid-for-its-own-electricity-thats-why-i-built-a-payment-protocol-for-robots-4ip9.md

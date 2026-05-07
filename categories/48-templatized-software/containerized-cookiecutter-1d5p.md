@@ -1,0 +1,1 @@
+../../articles/containerized-cookiecutter-1d5p.md

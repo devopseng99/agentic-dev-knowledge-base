@@ -1,0 +1,1 @@
+../../articles/cqrs-fundamentals-and-practice-in-elixir-17mc.md

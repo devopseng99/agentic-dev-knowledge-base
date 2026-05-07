@@ -1,0 +1,1 @@
+../../articles/genesis-db-mcp-server-ai-meets-event-sourcing-a-love-story-224e.md

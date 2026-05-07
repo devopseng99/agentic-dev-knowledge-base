@@ -1,0 +1,1 @@
+../../articles/tinyml-on-microcontrollers-running-ai-on-5-hardware-3kbi.md

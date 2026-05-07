@@ -1,0 +1,1 @@
+../../articles/how-to-get-your-site-on-ai-search-chatgpt-bing-perplexity-with-indexnow-3bm1.md

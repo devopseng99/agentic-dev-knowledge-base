@@ -1,0 +1,1 @@
+../../articles/why-healthcare-cant-afford-to-ignore-ai-automation-in-2026-c4b.md

@@ -1,0 +1,1 @@
+../../articles/building-a-monetized-api-part-4-of-4-4ecc.md

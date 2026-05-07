@@ -1,0 +1,1 @@
+../../articles/small-model-from-huggingface-with-video-understanding-2chj.md

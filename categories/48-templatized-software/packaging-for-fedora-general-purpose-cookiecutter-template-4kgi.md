@@ -1,0 +1,1 @@
+../../articles/packaging-for-fedora-general-purpose-cookiecutter-template-4kgi.md

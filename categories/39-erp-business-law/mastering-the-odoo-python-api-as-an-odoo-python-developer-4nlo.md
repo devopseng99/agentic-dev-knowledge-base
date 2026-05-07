@@ -1,0 +1,1 @@
+../../articles/mastering-the-odoo-python-api-as-an-odoo-python-developer-4nlo.md

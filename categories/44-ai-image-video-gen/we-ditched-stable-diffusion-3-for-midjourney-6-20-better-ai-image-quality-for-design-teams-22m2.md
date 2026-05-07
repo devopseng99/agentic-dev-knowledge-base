@@ -1,0 +1,1 @@
+../../articles/we-ditched-stable-diffusion-3-for-midjourney-6-20-better-ai-image-quality-for-design-teams-22m2.md

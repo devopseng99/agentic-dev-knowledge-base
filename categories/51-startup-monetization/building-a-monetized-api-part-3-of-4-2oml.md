@@ -1,0 +1,1 @@
+../../articles/building-a-monetized-api-part-3-of-4-2oml.md

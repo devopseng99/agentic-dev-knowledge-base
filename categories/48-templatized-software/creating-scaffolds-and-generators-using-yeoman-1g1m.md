@@ -1,0 +1,1 @@
+../../articles/creating-scaffolds-and-generators-using-yeoman-1g1m.md

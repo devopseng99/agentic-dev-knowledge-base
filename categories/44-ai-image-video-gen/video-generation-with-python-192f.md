@@ -1,0 +1,1 @@
+../../articles/video-generation-with-python-192f.md

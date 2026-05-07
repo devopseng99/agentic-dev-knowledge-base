@@ -1,0 +1,1 @@
+../../articles/the-state-of-mcp-monetization-in-2026-where-builders-actually-get-paid-34k9.md

@@ -1,0 +1,1 @@
+../../articles/best-open-source-image-to-video-cogvideox15-5b-i2v-is-pretty-decent-and-optimized-for-low-vram-42g4.md

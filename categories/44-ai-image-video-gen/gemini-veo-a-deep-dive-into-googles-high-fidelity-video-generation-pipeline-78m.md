@@ -1,0 +1,1 @@
+../../articles/gemini-veo-a-deep-dive-into-googles-high-fidelity-video-generation-pipeline-78m.md

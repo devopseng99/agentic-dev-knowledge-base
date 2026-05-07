@@ -1,0 +1,1 @@
+../../articles/esphome-202640-drops-esp32-runs-34-faster-5fa5.md

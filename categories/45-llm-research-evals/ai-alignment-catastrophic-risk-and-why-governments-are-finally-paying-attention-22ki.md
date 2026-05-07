@@ -1,0 +1,1 @@
+../../articles/ai-alignment-catastrophic-risk-and-why-governments-are-finally-paying-attention-22ki.md

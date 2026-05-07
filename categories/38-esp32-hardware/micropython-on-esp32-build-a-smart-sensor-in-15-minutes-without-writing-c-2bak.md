@@ -1,0 +1,1 @@
+../../articles/micropython-on-esp32-build-a-smart-sensor-in-15-minutes-without-writing-c-2bak.md

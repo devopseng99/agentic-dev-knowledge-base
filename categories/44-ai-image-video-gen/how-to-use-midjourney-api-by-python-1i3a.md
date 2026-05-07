@@ -1,0 +1,1 @@
+../../articles/how-to-use-midjourney-api-by-python-1i3a.md

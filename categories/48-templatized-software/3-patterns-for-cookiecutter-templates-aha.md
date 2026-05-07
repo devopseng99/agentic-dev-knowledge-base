@@ -1,0 +1,1 @@
+../../articles/3-patterns-for-cookiecutter-templates-aha.md

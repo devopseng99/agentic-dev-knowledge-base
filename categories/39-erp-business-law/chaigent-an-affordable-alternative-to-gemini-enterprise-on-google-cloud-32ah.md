@@ -1,0 +1,1 @@
+../../articles/chaigent-an-affordable-alternative-to-gemini-enterprise-on-google-cloud-32ah.md

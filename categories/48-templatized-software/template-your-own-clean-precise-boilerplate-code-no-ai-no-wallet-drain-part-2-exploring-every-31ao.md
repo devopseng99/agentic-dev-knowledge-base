@@ -1,0 +1,1 @@
+../../articles/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-2-exploring-every-31ao.md

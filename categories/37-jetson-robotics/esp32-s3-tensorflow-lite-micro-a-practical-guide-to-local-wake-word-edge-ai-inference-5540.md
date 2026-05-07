@@ -1,0 +1,1 @@
+../../articles/esp32-s3-tensorflow-lite-micro-a-practical-guide-to-local-wake-word-edge-ai-inference-5540.md

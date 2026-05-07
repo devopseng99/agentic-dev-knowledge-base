@@ -1,0 +1,1 @@
+../../articles/building-medical-ai-technical-architecture-lessons-4naj.md

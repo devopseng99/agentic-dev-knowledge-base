@@ -1,0 +1,1 @@
+../../articles/the-3-compliance-frameworks-every-law-firm-using-ai-should-know-how-gdpr-hipaa-and-soc-2-8c0.md

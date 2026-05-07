@@ -1,0 +1,1 @@
+../../articles/hands-on-with-veo3bot-google-veo-3-video-generation-without-gemini-subscription-jp2.md

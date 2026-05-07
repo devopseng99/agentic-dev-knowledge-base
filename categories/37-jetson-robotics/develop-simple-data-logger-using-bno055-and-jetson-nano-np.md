@@ -1,0 +1,1 @@
+../../articles/develop-simple-data-logger-using-bno055-and-jetson-nano-np.md

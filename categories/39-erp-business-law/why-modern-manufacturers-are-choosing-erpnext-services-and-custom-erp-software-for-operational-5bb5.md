@@ -1,0 +1,1 @@
+../../articles/why-modern-manufacturers-are-choosing-erpnext-services-and-custom-erp-software-for-operational-5bb5.md

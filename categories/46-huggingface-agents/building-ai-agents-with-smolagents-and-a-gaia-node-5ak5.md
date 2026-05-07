@@ -1,0 +1,1 @@
+../../articles/building-ai-agents-with-smolagents-and-a-gaia-node-5ak5.md

@@ -1,0 +1,1 @@
+../../articles/add-governance-to-hugging-face-smolagents-in-4-lines-192h.md

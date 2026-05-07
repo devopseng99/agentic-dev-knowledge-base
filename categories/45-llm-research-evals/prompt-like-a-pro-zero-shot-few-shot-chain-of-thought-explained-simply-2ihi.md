@@ -1,0 +1,1 @@
+../../articles/prompt-like-a-pro-zero-shot-few-shot-chain-of-thought-explained-simply-2ihi.md

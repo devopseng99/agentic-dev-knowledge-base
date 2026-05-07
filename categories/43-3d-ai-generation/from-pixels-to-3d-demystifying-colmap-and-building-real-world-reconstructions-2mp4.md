@@ -1,0 +1,1 @@
+../../articles/from-pixels-to-3d-demystifying-colmap-and-building-real-world-reconstructions-2mp4.md

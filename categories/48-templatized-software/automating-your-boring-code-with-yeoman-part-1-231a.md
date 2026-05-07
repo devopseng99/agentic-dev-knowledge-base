@@ -1,0 +1,1 @@
+../../articles/automating-your-boring-code-with-yeoman-part-1-231a.md

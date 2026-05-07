@@ -1,0 +1,1 @@
+../../articles/agent-skills-automatically-scaffold-a-net-solution-structure-1570.md

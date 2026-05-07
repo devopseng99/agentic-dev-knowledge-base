@@ -1,0 +1,1 @@
+../../articles/erpnext-installation-details-1ii1.md

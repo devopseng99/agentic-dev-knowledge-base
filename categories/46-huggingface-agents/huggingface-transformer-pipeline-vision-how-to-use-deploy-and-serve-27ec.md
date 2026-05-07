@@ -1,0 +1,1 @@
+../../articles/huggingface-transformer-pipeline-vision-how-to-use-deploy-and-serve-27ec.md

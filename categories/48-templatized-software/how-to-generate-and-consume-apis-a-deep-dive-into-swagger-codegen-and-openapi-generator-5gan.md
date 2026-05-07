@@ -1,0 +1,1 @@
+../../articles/how-to-generate-and-consume-apis-a-deep-dive-into-swagger-codegen-and-openapi-generator-5gan.md

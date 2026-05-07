@@ -1,0 +1,1 @@
+../../articles/building-a-multi-protocol-iot-gateway-with-openmqttgateway-and-esp32-52dg.md

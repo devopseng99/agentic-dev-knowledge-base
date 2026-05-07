@@ -1,0 +1,1 @@
+../../articles/simplifying-event-sourcing-in-golang-5944.md

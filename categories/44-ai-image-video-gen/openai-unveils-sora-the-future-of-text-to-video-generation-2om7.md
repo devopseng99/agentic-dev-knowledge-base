@@ -1,0 +1,1 @@
+../../articles/openai-unveils-sora-the-future-of-text-to-video-generation-2om7.md

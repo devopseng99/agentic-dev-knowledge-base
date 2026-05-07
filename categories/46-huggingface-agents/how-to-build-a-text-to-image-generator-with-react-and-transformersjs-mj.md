@@ -1,0 +1,1 @@
+../../articles/how-to-build-a-text-to-image-generator-with-react-and-transformersjs-mj.md

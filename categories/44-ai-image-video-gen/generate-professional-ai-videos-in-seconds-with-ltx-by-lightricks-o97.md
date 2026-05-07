@@ -1,0 +1,1 @@
+../../articles/generate-professional-ai-videos-in-seconds-with-ltx-by-lightricks-o97.md

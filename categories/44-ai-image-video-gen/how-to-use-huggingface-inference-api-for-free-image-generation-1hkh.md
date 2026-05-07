@@ -1,0 +1,1 @@
+../../articles/how-to-use-huggingface-inference-api-for-free-image-generation-1hkh.md

@@ -1,0 +1,1 @@
+../../articles/esp32-vs-pi-zero-vs-jetson-nano-first-tinyml-pick-kbk.md

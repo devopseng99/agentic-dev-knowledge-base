@@ -1,0 +1,1 @@
+../../articles/arduino-uno-q-edge-ai-face-detection-project-beginner-to-advanced-guide-44m4.md

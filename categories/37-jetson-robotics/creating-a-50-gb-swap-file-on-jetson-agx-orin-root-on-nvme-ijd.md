@@ -1,0 +1,1 @@
+../../articles/creating-a-50-gb-swap-file-on-jetson-agx-orin-root-on-nvme-ijd.md

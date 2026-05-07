@@ -1,0 +1,1 @@
+../../articles/enabling-maximum-performance-mode-on-nvidia-jetson-agx-orin-64-gb-53nb.md

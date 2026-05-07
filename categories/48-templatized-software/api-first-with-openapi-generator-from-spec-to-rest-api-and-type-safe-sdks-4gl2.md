@@ -1,0 +1,1 @@
+../../articles/api-first-with-openapi-generator-from-spec-to-rest-api-and-type-safe-sdks-4gl2.md

@@ -1,0 +1,1 @@
+../../articles/create-interactive-3d-gaussian-splat-scenes-from-a-single-photo-entirely-in-your-browser-4ip2.md

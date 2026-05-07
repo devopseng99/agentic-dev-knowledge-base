@@ -1,0 +1,1 @@
+../../articles/building-a-diy-esp32-s3-ai-voice-assistant-with-xiaozhi-mcp-2jjp.md

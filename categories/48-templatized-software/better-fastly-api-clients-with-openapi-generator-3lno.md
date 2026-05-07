@@ -1,0 +1,1 @@
+../../articles/better-fastly-api-clients-with-openapi-generator-3lno.md

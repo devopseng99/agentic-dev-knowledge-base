@@ -1,0 +1,1 @@
+../../articles/snap-splat-turn-everyday-objects-into-3d-models-with-your-phone-246i.md

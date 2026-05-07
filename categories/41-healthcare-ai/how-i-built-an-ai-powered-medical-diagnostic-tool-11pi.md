@@ -1,0 +1,1 @@
+../../articles/how-i-built-an-ai-powered-medical-diagnostic-tool-11pi.md

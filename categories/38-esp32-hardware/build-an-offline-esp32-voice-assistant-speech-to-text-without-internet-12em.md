@@ -1,0 +1,1 @@
+../../articles/build-an-offline-esp32-voice-assistant-speech-to-text-without-internet-12em.md

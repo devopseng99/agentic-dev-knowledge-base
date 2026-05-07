@@ -1,0 +1,1 @@
+../../articles/event-sourcing-and-materialization-in-elixir-39g2.md

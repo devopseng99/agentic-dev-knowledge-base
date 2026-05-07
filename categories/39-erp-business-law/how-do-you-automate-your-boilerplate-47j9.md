@@ -1,0 +1,1 @@
+../../articles/how-do-you-automate-your-boilerplate-47j9.md

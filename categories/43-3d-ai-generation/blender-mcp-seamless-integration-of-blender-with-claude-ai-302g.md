@@ -1,0 +1,1 @@
+../../articles/blender-mcp-seamless-integration-of-blender-with-claude-ai-302g.md

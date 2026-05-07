@@ -1,0 +1,1 @@
+../../articles/controlnet-api-pose-depth-and-canny-locked-image-generation-5gn2.md

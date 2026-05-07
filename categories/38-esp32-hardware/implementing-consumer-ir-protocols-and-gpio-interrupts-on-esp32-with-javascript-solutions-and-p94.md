@@ -1,0 +1,1 @@
+../../articles/implementing-consumer-ir-protocols-and-gpio-interrupts-on-esp32-with-javascript-solutions-and-p94.md

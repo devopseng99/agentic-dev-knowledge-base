@@ -1,0 +1,1 @@
+../../articles/cookiecutter-for-container-images-g4i.md

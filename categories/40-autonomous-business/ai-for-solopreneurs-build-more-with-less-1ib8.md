@@ -1,0 +1,1 @@
+../../articles/ai-for-solopreneurs-build-more-with-less-1ib8.md

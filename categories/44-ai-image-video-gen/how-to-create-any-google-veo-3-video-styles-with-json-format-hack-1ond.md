@@ -1,0 +1,1 @@
+../../articles/how-to-create-any-google-veo-3-video-styles-with-json-format-hack-1ond.md

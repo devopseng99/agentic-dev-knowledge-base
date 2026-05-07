@@ -1,0 +1,1 @@
+../../articles/how-i-built-an-ai-contract-analyzer-in-a-few-weeks-and-what-i-learned-about-legal-text-4apj.md

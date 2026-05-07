@@ -1,0 +1,1 @@
+../../articles/why-i-wrote-a-book-on-ddd-cqrs-and-event-sourcing-1ijc.md

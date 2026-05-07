@@ -1,0 +1,1 @@
+../../articles/open-source-project-esp32-bus-pirate-a-hardware-hacking-tool-that-speaks-every-protocol-24gl.md

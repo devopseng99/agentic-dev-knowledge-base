@@ -1,0 +1,1 @@
+../../articles/object-detection-with-esp32-ai-thinker-and-edge-impulse-50h2.md

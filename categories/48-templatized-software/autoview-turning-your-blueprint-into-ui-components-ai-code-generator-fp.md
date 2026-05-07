@@ -1,0 +1,1 @@
+../../articles/autoview-turning-your-blueprint-into-ui-components-ai-code-generator-fp.md

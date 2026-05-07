@@ -1,0 +1,1 @@
+../../articles/json-style-guides-for-controlled-image-generation-with-gpt-4o-and-gpt-image-1-36p.md

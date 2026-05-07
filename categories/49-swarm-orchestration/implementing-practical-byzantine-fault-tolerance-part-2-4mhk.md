@@ -1,0 +1,1 @@
+../../articles/implementing-practical-byzantine-fault-tolerance-part-2-4mhk.md

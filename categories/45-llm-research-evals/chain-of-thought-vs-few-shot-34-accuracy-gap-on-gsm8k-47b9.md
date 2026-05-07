@@ -1,0 +1,1 @@
+../../articles/chain-of-thought-vs-few-shot-34-accuracy-gap-on-gsm8k-47b9.md

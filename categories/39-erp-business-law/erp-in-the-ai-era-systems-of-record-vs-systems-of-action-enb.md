@@ -1,0 +1,1 @@
+../../articles/erp-in-the-ai-era-systems-of-record-vs-systems-of-action-enb.md

@@ -1,0 +1,1 @@
+../../articles/how-i-built-a-blender-ai-plugin-that-generates-3d-models-from-text-3d-agent-2fkc.md

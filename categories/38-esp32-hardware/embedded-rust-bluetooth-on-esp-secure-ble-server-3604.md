@@ -1,0 +1,1 @@
+../../articles/embedded-rust-bluetooth-on-esp-secure-ble-server-3604.md

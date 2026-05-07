@@ -1,0 +1,1 @@
+../../articles/die-zukunft-der-produktprasentation-3d-gaussian-splatting-im-e-commerce-2ceg.md

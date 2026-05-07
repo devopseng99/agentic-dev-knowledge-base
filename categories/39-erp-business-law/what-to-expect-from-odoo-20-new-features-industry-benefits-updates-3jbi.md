@@ -1,0 +1,1 @@
+../../articles/what-to-expect-from-odoo-20-new-features-industry-benefits-updates-3jbi.md

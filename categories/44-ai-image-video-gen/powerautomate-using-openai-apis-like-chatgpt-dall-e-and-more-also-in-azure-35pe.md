@@ -1,0 +1,1 @@
+../../articles/powerautomate-using-openai-apis-like-chatgpt-dall-e-and-more-also-in-azure-35pe.md

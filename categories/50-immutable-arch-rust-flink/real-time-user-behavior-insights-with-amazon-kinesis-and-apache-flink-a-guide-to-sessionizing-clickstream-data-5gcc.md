@@ -1,0 +1,1 @@
+../../articles/real-time-user-behavior-insights-with-amazon-kinesis-and-apache-flink-a-guide-to-sessionizing-clickstream-data-5gcc.md

@@ -1,0 +1,1 @@
+../../articles/the-2026-guide-to-agentic-commerce-how-to-make-your-business-shoppable-for-ai-agents-3pdi.md

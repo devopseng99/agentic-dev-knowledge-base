@@ -1,0 +1,1 @@
+../../articles/event-driven-architecture-event-sourcing-and-cqrs-how-they-work-together-1bp1.md

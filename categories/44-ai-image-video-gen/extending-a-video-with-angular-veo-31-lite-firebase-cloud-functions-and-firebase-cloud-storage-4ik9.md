@@ -1,0 +1,1 @@
+../../articles/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9.md

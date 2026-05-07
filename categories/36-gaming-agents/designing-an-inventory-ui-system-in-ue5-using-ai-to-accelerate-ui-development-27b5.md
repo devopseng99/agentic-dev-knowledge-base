@@ -1,0 +1,1 @@
+../../articles/designing-an-inventory-ui-system-in-ue5-using-ai-to-accelerate-ui-development-27b5.md

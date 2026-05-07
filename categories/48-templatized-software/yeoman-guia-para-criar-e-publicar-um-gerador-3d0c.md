@@ -1,0 +1,1 @@
+../../articles/yeoman-guia-para-criar-e-publicar-um-gerador-3d0c.md

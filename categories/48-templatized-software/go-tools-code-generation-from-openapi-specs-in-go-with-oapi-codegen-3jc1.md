@@ -1,0 +1,1 @@
+../../articles/go-tools-code-generation-from-openapi-specs-in-go-with-oapi-codegen-3jc1.md

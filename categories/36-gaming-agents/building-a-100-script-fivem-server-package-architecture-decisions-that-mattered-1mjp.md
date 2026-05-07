@@ -1,0 +1,1 @@
+../../articles/building-a-100-script-fivem-server-package-architecture-decisions-that-mattered-1mjp.md

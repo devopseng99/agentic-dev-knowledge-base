@@ -1,0 +1,1 @@
+../../articles/the-yoga-of-image-generation-part-1-1gan.md

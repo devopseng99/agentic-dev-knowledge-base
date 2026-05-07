@@ -1,0 +1,1 @@
+../../articles/benchmark-scores-are-the-new-soc2-1c66.md

@@ -1,0 +1,1 @@
+../../articles/from-blender-mcp-to-3d-agent-the-evolution-of-ai-powered-blender-modeling-1m7d.md

@@ -1,0 +1,1 @@
+../../articles/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo.md

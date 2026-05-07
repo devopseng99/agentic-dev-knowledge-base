@@ -1,0 +1,1 @@
+../../articles/huggingfacejs-quick-guide-to-getting-started-2mg.md

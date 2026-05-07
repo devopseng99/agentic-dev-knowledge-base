@@ -1,0 +1,1 @@
+../../articles/technical-implementation-and-architectural-analysis-of-an-esp32-s3-based-deep-sleep-outdoor-camera-kkk.md

@@ -1,0 +1,1 @@
+../../articles/building-a-hardware-totp-authenticator-on-esp32-the-memory-management-nightmare-45ko.md

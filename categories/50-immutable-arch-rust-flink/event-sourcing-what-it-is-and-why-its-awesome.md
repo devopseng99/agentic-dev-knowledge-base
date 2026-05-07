@@ -1,0 +1,1 @@
+../../articles/event-sourcing-what-it-is-and-why-its-awesome.md

@@ -1,0 +1,1 @@
+../../articles/how-iot-and-ai-work-together-in-healthcare-2n7.md

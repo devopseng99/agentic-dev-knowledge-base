@@ -1,0 +1,1 @@
+../../articles/hugging-face-zero-gpu-spaces-shieldgemma-application-12g5.md

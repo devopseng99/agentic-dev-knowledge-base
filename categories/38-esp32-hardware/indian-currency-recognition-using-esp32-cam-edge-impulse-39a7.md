@@ -1,0 +1,1 @@
+../../articles/indian-currency-recognition-using-esp32-cam-edge-impulse-39a7.md

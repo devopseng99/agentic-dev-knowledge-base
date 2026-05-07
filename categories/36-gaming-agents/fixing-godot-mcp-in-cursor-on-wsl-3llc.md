@@ -1,0 +1,1 @@
+../../articles/fixing-godot-mcp-in-cursor-on-wsl-3llc.md

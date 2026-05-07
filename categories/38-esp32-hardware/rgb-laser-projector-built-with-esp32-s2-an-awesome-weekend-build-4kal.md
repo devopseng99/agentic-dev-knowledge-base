@@ -1,0 +1,1 @@
+../../articles/rgb-laser-projector-built-with-esp32-s2-an-awesome-weekend-build-4kal.md

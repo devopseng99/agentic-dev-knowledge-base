@@ -1,0 +1,1 @@
+../../articles/higgsfield-ai-the-revolutionary-image-to-video-generator-transforming-cinematic-creation-2ack.md

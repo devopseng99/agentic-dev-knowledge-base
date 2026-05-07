@@ -1,0 +1,1 @@
+../../articles/erp-for-travel-agencies-automate-bookings-operations-ao8.md

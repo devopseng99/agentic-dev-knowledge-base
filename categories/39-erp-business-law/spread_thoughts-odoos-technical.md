@@ -1,0 +1,1 @@
+../../articles/spread_thoughts-odoos-technical.md

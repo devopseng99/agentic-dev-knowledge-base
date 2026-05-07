@@ -1,0 +1,1 @@
+../../articles/secure-boot-on-esp32-fortifying-your-iot-device-against-firmware-attacks-52b4.md

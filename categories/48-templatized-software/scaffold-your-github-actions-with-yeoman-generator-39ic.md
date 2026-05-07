@@ -1,0 +1,1 @@
+../../articles/scaffold-your-github-actions-with-yeoman-generator-39ic.md

@@ -1,0 +1,1 @@
+../../articles/4-types-of-hallucinations-one-detection-pattern-per-type-1pjb.md

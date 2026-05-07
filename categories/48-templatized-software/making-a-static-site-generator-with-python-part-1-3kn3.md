@@ -1,0 +1,1 @@
+../../articles/making-a-static-site-generator-with-python-part-1-3kn3.md

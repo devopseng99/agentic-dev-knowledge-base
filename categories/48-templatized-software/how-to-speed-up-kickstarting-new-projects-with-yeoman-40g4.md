@@ -1,0 +1,1 @@
+../../articles/how-to-speed-up-kickstarting-new-projects-with-yeoman-40g4.md

@@ -1,0 +1,1 @@
+../../articles/ai-diagnoses-better-than-doctors-l3g.md

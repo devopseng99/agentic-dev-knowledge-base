@@ -1,0 +1,1 @@
+../../articles/how-to-profile-gdscript-performance-in-godot-4-a-2026-guide-16jn.md
