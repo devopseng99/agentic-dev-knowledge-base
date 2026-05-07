@@ -1,0 +1,1 @@
+../../articles/how-to-build-a-chatbot-using-openai-api-and-fast-api--2nkp.md

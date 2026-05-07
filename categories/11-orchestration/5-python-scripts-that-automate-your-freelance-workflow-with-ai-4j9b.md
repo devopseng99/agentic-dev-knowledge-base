@@ -1,0 +1,1 @@
+../../articles/5-python-scripts-that-automate-your-freelance-workflow-with-ai-4j9b.md

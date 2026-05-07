@@ -1,0 +1,1 @@
+../../articles/build-a-real-time-voice-assistant-with-mistral-ai-and-fastrtc-p9b.md

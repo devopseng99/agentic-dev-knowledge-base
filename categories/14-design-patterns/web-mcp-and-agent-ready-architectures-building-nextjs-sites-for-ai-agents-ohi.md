@@ -1,0 +1,1 @@
+../../articles/web-mcp-and-agent-ready-architectures-building-nextjs-sites-for-ai-agents-ohi.md

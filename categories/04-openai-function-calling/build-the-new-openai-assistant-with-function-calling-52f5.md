@@ -1,0 +1,1 @@
+../../articles/build-the-new-openai-assistant-with-function-calling-52f5.md

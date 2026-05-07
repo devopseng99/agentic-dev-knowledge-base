@@ -1,0 +1,1 @@
+../../articles/vector-search-code-embeddings-building-a-smart-knowledge-base-with-langchain-and-faiss-m48.md

@@ -1,0 +1,1 @@
+../../articles/building-a-local-ai-agent-with-ollama-mcp-docker-37a.md

@@ -1,0 +1,1 @@
+../../articles/how-prompt-engineering-turned-natural-language-into-production-ready-sql-queries-3afp.md

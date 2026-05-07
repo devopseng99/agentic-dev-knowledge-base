@@ -1,0 +1,1 @@
+../../articles/deploying-a-serverless-ai-agent-with-aws-bedrock-lambda-and-api-gateway-2123.md

@@ -1,1 +1,0 @@
-../../articles/agentic-architectures-article-2-advanced-coordination-and-reasoning-patterns-36p.md

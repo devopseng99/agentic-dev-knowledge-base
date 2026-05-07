@@ -1,0 +1,1 @@
+../../articles/your-api-wasnt-designed-for-ai-agents-here-are-5-fixes-2oem.md

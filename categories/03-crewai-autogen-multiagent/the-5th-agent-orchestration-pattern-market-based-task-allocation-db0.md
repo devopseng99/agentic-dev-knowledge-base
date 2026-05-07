@@ -1,0 +1,1 @@
+../../articles/the-5th-agent-orchestration-pattern-market-based-task-allocation-db0.md

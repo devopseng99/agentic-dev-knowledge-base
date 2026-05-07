@@ -1,0 +1,1 @@
+../../articles/7-transaction-types-your-ai-agent-can-execute-from-transfers-to-contract-deployment-3p7g.md

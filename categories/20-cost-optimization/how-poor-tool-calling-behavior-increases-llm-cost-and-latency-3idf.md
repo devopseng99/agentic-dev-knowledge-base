@@ -1,0 +1,1 @@
+../../articles/how-poor-tool-calling-behavior-increases-llm-cost-and-latency-3idf.md

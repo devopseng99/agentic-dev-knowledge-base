@@ -1,0 +1,1 @@
+../../articles/i-built-a-small-agentic-trading-app-it-cost-me-a-few-hours-and-about-020-per-run-3ikj.md

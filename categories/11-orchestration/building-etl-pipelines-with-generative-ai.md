@@ -1,0 +1,1 @@
+../../articles/building-etl-pipelines-with-generative-ai.md

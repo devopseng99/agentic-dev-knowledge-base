@@ -1,0 +1,1 @@
+../../articles/rag-on-aws-building-an-ai-powered-knowledge-base-with-amazon-bedrock-and-s3-vectors-11kc.md

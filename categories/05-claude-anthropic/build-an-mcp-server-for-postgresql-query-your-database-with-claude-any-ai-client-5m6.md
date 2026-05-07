@@ -1,0 +1,1 @@
+../../articles/build-an-mcp-server-for-postgresql-query-your-database-with-claude-any-ai-client-5m6.md

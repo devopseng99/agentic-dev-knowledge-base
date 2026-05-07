@@ -1,0 +1,1 @@
+../../articles/everything-about-ai-function-calling-mcp-the-keyword-for-agentic-ai-2id7.md

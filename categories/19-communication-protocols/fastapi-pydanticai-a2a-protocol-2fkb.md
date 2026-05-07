@@ -1,0 +1,1 @@
+../../articles/fastapi-pydanticai-a2a-protocol-2fkb.md

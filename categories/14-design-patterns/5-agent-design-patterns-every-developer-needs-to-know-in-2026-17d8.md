@@ -1,0 +1,1 @@
+../../articles/5-agent-design-patterns-every-developer-needs-to-know-in-2026-17d8.md

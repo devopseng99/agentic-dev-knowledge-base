@@ -1,0 +1,1 @@
+../../articles/stop-installing-mcp-servers-on-your-laptop-heres-a-one-click-sandbox-for-claude-71g.md

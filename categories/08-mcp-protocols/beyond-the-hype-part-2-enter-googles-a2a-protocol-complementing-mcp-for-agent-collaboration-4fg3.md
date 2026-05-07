@@ -1,0 +1,1 @@
+../../articles/beyond-the-hype-part-2-enter-googles-a2a-protocol-complementing-mcp-for-agent-collaboration-4fg3.md

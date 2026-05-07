@@ -1,0 +1,1 @@
+../../articles/langchain-fundamentals-part-2-structured-outputs-and-tool-calling-52ja.md

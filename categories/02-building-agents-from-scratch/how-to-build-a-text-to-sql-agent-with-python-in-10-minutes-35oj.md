@@ -1,1 +1,0 @@
-../../articles/how-to-build-a-text-to-sql-agent-with-python-in-10-minutes-35oj.md

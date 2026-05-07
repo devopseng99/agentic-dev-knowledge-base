@@ -1,0 +1,1 @@
+../../articles/how-to-integrate-ai-agent-skills-to-nextjs-app-cursor-ai--o23.md

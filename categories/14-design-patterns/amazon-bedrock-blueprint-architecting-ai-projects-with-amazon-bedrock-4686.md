@@ -1,0 +1,1 @@
+../../articles/amazon-bedrock-blueprint-architecting-ai-projects-with-amazon-bedrock-4686.md

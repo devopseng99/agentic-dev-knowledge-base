@@ -1,0 +1,1 @@
+../../articles/automating-sql-queries-with-langchain-and-gemini-a-step-by-step-guide-816.md

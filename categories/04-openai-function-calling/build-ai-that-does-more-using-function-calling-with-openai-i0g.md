@@ -1,0 +1,1 @@
+../../articles/build-ai-that-does-more-using-function-calling-with-openai-i0g.md

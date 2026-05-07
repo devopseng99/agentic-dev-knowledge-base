@@ -1,0 +1,1 @@
+../../articles/why-single-agents-fail-building-scalable-ai-teams-with-the-manager-worker-pattern-4nh5.md

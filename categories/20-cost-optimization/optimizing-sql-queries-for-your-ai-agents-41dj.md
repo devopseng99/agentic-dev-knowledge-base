@@ -1,0 +1,1 @@
+../../articles/optimizing-sql-queries-for-your-ai-agents-41dj.md

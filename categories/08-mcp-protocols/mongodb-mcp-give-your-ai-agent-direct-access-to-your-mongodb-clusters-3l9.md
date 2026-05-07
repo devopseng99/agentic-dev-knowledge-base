@@ -1,0 +1,1 @@
+../../articles/mongodb-mcp-give-your-ai-agent-direct-access-to-your-mongodb-clusters-3l9.md

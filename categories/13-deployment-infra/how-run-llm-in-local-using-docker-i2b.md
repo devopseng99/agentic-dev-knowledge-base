@@ -1,0 +1,1 @@
+../../articles/how-run-llm-in-local-using-docker-i2b.md

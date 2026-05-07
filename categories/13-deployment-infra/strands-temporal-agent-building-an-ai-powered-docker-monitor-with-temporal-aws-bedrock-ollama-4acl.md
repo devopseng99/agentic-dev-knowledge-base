@@ -1,0 +1,1 @@
+../../articles/strands-temporal-agent-building-an-ai-powered-docker-monitor-with-temporal-aws-bedrock-ollama-4acl.md

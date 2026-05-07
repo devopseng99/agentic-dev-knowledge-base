@@ -1,0 +1,1 @@
+../../articles/building-a-copilot-code-first-with-azure-ai-443l.md

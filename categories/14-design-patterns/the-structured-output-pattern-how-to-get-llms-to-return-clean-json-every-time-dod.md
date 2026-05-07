@@ -1,0 +1,1 @@
+../../articles/the-structured-output-pattern-how-to-get-llms-to-return-clean-json-every-time-dod.md

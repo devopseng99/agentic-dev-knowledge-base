@@ -1,0 +1,1 @@
+../../articles/2025-complete-guide-agent2agent-a2a-protocol-the-new-standard-for-ai-agent-collaboration-1pph.md
