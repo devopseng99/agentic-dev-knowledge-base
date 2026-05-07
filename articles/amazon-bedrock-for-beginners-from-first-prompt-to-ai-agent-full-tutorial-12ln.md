@@ -1,158 +1,121 @@
 ---
-title: "Amazon Bedrock for Beginners: From First Prompt to AI Agent (Full Tutorial)"
+title: "Amazon Bedrock for Beginners From First Prompt to AI Agent (Full Tutorial)"
 url: "https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln"
 author: "Morgan Willis"
-category: "bedrock-agent-aws"
+category: "multi-turn-conversation"
 ---
 
-# Amazon Bedrock for Beginners: From First Prompt to AI Agent (Full Tutorial)
+# Amazon Bedrock for Beginners: From First Prompt to AI Agent
 
 **Author:** Morgan Willis
 **Published:** April 14, 2026
 
 ## Overview
-
-Comprehensive tutorial progressing from basic Bedrock API calls to creating agents with tool use. Covers the Converse API, multi-turn conversations, token economics, and the full tool-use workflow.
+Hands-on tutorial introducing Amazon Bedrock's Converse API, multi-turn conversation management, and tool use (function calling). Demonstrates working directly with APIs before adopting higher-level frameworks.
 
 ## Key Concepts
+- Converse API as the standard interface across all Bedrock models
+- Models are stateless: full conversation history must be resent each call
+- Tool use lets models request function execution without executing directly
+- Temperature controls randomness (0.0 = deterministic)
 
-### Basic API Call
+## Code Examples
+
+### First API Call (Python)
 
 ```python
 import boto3
-import json
 
 def use_converse_api():
     bedrock_runtime = boto3.client('bedrock-runtime', region_name='us-east-1')
     model_id = "us.amazon.nova-lite-v1:0"
 
-    system_prompt = [{"text": "You are a helpful technical assistant who explains concepts clearly and concisely."}]
-    user_message = "What is serverless computing?"
+    system_prompt = [{"text": "You are a helpful technical assistant."}]
 
     response = bedrock_runtime.converse(
         modelId=model_id,
         system=system_prompt,
-        messages=[{"role": "user", "content": [{"text": user_message}]}],
+        messages=[{"role": "user", "content": [{"text": "What is serverless computing?"}]}],
         inferenceConfig={"temperature": 0.7, "maxTokens": 2000}
     )
 
-    output_text = response['output']['message']['content'][0]['text']
-    print(output_text)
-
+    print(response['output']['message']['content'][0]['text'])
     usage = response.get('usage', {})
-    print(f"Input tokens: {usage.get('inputTokens', 'N/A')}")
-    print(f"Output tokens: {usage.get('outputTokens', 'N/A')}")
+    print(f"Input tokens: {usage.get('inputTokens')}")
+    print(f"Output tokens: {usage.get('outputTokens')}")
 ```
 
-### Multi-Turn Conversations
-
-Models are stateless by design. Each API call is independent and the model does not remember previous requests. Conversation history must be explicitly managed.
+### Multi-Turn Conversation (Python)
 
 ```python
-import boto3
-
 def multi_turn_conversation():
     bedrock_runtime = boto3.client('bedrock-runtime', region_name='us-east-1')
     model_id = "us.amazon.nova-lite-v1:0"
-    system_prompt = [{"text": "You are a helpful cooking assistant. Provide concise recipe suggestions."}]
+    system_prompt = [{"text": "You are a helpful cooking assistant."}]
     conversation_history = []
 
     # Turn 1
-    conversation_history.append({"role": "user", "content": [{"text": "Suggest a quick dinner recipe with chicken."}]})
-    response_1 = bedrock_runtime.converse(
-        modelId=model_id, system=system_prompt, messages=conversation_history,
+    conversation_history.append({"role": "user", "content": [{"text": "Suggest a quick dinner with chicken."}]})
+    response = bedrock_runtime.converse(
+        modelId=model_id, system=system_prompt,
+        messages=conversation_history,
         inferenceConfig={"temperature": 0.7, "maxTokens": 200}
     )
-    assistant_message_1 = response_1['output']['message']['content'][0]['text']
-    conversation_history.append({"role": "assistant", "content": [{"text": assistant_message_1}]})
+    msg = response['output']['message']['content'][0]['text']
+    conversation_history.append({"role": "assistant", "content": [{"text": msg}]})
 
-    # Turn 2
-    conversation_history.append({"role": "user", "content": [{"text": "Can you make it vegetarian instead?"}]})
-    response_2 = bedrock_runtime.converse(
-        modelId=model_id, system=system_prompt, messages=conversation_history,
+    # Turn 2 - references Turn 1
+    conversation_history.append({"role": "user", "content": [{"text": "Make it vegetarian instead?"}]})
+    response = bedrock_runtime.converse(
+        modelId=model_id, system=system_prompt,
+        messages=conversation_history,
         inferenceConfig={"temperature": 0.7, "maxTokens": 200}
     )
+    print(response['output']['message']['content'][0]['text'])
 ```
 
-### Tool Use (Function Calling)
+### Tool Use / Function Calling (Python)
 
 ```python
-import json
-import boto3
+import json, boto3
 
 def get_weather(location, unit="fahrenheit"):
-    weather_data = {
-        "location": location,
-        "temperature": 58 if unit == "fahrenheit" else 14,
-        "unit": unit,
-        "condition": "Partly cloudy",
-        "humidity": "72%",
-        "wind": "8 mph NW",
-    }
-    return weather_data
+    return {"location": location, "temperature": 58 if unit == "fahrenheit" else 14, "condition": "Partly cloudy"}
 
-TOOL_CONFIG = {
-    "tools": [{
-        "toolSpec": {
-            "name": "get_weather",
-            "description": "Get the current weather for a given location.",
-            "inputSchema": {
-                "json": {
-                    "type": "object",
-                    "properties": {
-                        "location": {"type": "string", "description": "The city and state, e.g. 'San Francisco, CA'"},
-                        "unit": {"type": "string", "enum": ["fahrenheit", "celsius"]}
-                    },
-                    "required": ["location"]
-                }
-            }
-        }
-    }]
-}
-
-TOOL_FUNCTIONS = {"get_weather": get_weather}
-
-def run_tool(tool_name, tool_input):
-    func = TOOL_FUNCTIONS.get(tool_name)
-    if func is None:
-        return {"error": f"Unknown tool: {tool_name}"}
-    return func(**tool_input)
+TOOL_CONFIG = {"tools": [{"toolSpec": {
+    "name": "get_weather",
+    "description": "Get weather for a location.",
+    "inputSchema": {"json": {
+        "type": "object",
+        "properties": {
+            "location": {"type": "string"},
+            "unit": {"type": "string", "enum": ["fahrenheit", "celsius"]},
+        },
+        "required": ["location"],
+    }}
+}}]}
 
 def tool_use_demo():
     bedrock = boto3.client('bedrock-runtime', region_name='us-east-1')
-    model_id = "us.amazon.nova-lite-v1:0"
-    messages = [{"role": "user", "content": [{"text": "What's the weather like in Seattle right now?"}]}]
+    messages = [{"role": "user", "content": [{"text": "Weather in Seattle?"}]}]
 
     response = bedrock.converse(
-        modelId=model_id, messages=messages, toolConfig=TOOL_CONFIG,
-        inferenceConfig={"temperature": 0.0, "maxTokens": 300}
+        modelId="us.amazon.nova-lite-v1:0", messages=messages,
+        toolConfig=TOOL_CONFIG, inferenceConfig={"temperature": 0.0, "maxTokens": 300},
     )
 
-    stop_reason = response["stopReason"]
-    assistant_message = response["output"]["message"]
+    if response["stopReason"] == "tool_use":
+        tool_block = next(b["toolUse"] for b in response["output"]["message"]["content"] if "toolUse" in b)
+        result = get_weather(**tool_block["input"])
 
-    if stop_reason == "tool_use":
-        tool_use_block = None
-        for block in assistant_message["content"]:
-            if "toolUse" in block:
-                tool_use_block = block["toolUse"]
-                break
+        messages.append(response["output"]["message"])
+        messages.append({"role": "user", "content": [
+            {"toolResult": {"toolUseId": tool_block["toolUseId"], "content": [{"json": result}]}}
+        ]})
 
-        result = run_tool(tool_use_block["name"], tool_use_block["input"])
-
-        messages.append(assistant_message)
-        messages.append({
-            "role": "user",
-            "content": [{"toolResult": {"toolUseId": tool_use_block["toolUseId"], "content": [{"json": result}]}}]
-        })
-
-        final_response = bedrock.converse(
-            modelId=model_id, messages=messages, toolConfig=TOOL_CONFIG,
-            inferenceConfig={"temperature": 0.0, "maxTokens": 300}
+        final = bedrock.converse(
+            modelId="us.amazon.nova-lite-v1:0", messages=messages,
+            toolConfig=TOOL_CONFIG, inferenceConfig={"temperature": 0.0, "maxTokens": 300},
         )
-        print(final_response["output"]["message"]["content"][0]["text"])
+        print(final["output"]["message"]["content"][0]["text"])
 ```
-
-### Cost Estimate
-
-Approximately $3.00 per month for 1,000 queries, with most services within AWS free tiers.
