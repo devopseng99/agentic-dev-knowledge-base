@@ -2,7 +2,7 @@
 title: "Building a streaming AI companion in your own API"
 url: "https://dev.to/samvanhoutte/building-a-streaming-ai-companion-in-your-own-api-4e3i"
 author: "Sam Vanhoutte"
-category: "cloud-agents"
+category: "flink-kafka-agents"
 ---
 
 # Building a streaming AI companion in your own API
@@ -10,33 +10,12 @@ category: "cloud-agents"
 **Published:** May 2, 2026
 
 ## Overview
-Building an AI conversational assistant for Libelo (nature/hiking discovery platform) using Azure AI Foundry, routed through a custom API for security, monitoring, validation, and resilience. Uses SSE streaming, structured card responses, and anti-hallucination tracking.
+Architecture for a conversational AI assistant using SSE streaming through a custom API. Routes requests through own API for authentication, monitoring, and context enrichment rather than exposing Azure AI credentials to clients.
 
 ## Key Concepts
-
-### Azure AI Project Client Setup
-
-```csharp
-services.AddSingleton<AIProjectClient>(sp =>
-{
-    var options = sp.GetRequiredService<IOptions<CompanionOptions>>().Value;
-    return new AIProjectClient(
-        new Uri(options.AzureAIProjectEndpoint),
-        new DefaultAzureCredential());
-});
-```
-
-### Why Route Through Your Own API
-- **Security**: Azure credentials stay server-side; clients authenticate via JWT
-- **Monitoring**: OpenTelemetry traces for requests, latency, tokens, errors
-- **Validation**: FluentValidation checks context before agent sees it
-- **Resilience**: Polly retry pipeline handles transient errors
-
-### Tools Implemented
-ParkStatusTool, WeatherTool, RecentSightingsTool, UserFavouritesTool, EmitCardsTool
-
-### Anti-Hallucination Pattern
-Tracks surfaced IDs (from tools) vs emitted IDs (from model). Only cards both retrieved and claimed are included in responses.
-
-### Streaming
-Server-Sent Events (SSE) stream text deltas immediately, then send final envelope with validated message and card array.
+- Anti-hallucination check tracks surfaced IDs vs emitted IDs; only entities in both sets appear
+- SSE streams text deltas continuously, final envelope contains validated text + structured card data
+- AIProjectClient handles Azure auth via managed identity
+- CompanionContextBuilder injects fresh system instructions each turn with location context
+- Tools record accessible entity IDs for validation
+- Pattern isolates Azure SDK in single class for future provider changes
