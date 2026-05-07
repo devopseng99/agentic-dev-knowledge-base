@@ -2,7 +2,7 @@
 title: "AI/ML Research Digest — Apr 18, 2026"
 url: "https://dev.to/olaughter/aiml-research-digest-apr-18-2026-3icd"
 author: "Papers Mache"
-category: "llm-research-evals"
+category: "3d-ai-generation"
 ---
 # AI/ML Research Digest — Apr 18, 2026
 **Author:** Papers Mache  **Published:** May 6, 2026
