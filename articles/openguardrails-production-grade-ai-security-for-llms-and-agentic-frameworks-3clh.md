@@ -1,19 +1,18 @@
 ---
-title: "Openguardrails Production Grade Ai Security For Llms And Agentic Frameworks"
+title: "OpenGuardrails: Production-Grade AI Security for LLMs and Agentic Frameworks"
 url: "https://dev.to/sudarshangouda/openguardrails-production-grade-ai-security-for-llms-and-agentic-frameworks-3clh"
-author: "sudarshangouda"
+author: "Sudarshan Gouda"
 category: "llmops-infra"
 ---
 
-# Openguardrails Production Grade Ai Security For Llms And Agentic Frameworks
-**Author:** sudarshangouda
+# OpenGuardrails: Production-Grade AI Security for LLMs and Agentic Frameworks
+**Author:** Sudarshan Gouda
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Production-ready security platform for detecting and preventing threats in AI-powered applications and agentic frameworks.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

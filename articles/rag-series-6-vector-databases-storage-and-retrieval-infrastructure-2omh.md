@@ -1,19 +1,18 @@
 ---
-title: "Rag Series 6 Vector Databases Storage And Retrieval Infrastructure"
+title: "RAG Series: Vector Databases - Storage and Retrieval Infrastructure"
 url: "https://dev.to/wonderlab/rag-series-6-vector-databases-storage-and-retrieval-infrastructure-2omh"
-author: "wonderlab"
+author: "WonderLab"
 category: "llmops-infra"
 ---
 
-# Rag Series 6 Vector Databases Storage And Retrieval Infrastructure
-**Author:** wonderlab
+# RAG Series: Vector Databases - Storage and Retrieval Infrastructure
+**Author:** WonderLab
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Vector database infrastructure for RAG systems covering storage, retrieval, and production deployment patterns.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

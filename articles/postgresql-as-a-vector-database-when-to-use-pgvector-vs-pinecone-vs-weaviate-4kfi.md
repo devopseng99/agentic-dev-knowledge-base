@@ -1,19 +1,18 @@
 ---
-title: "Postgresql As A Vector Database When To Use Pgvector Vs Pinecone Vs Weaviate"
+title: "PostgreSQL as a Vector Database: When to Use pgvector vs Pinecone vs Weaviate"
 url: "https://dev.to/polliog/postgresql-as-a-vector-database-when-to-use-pgvector-vs-pinecone-vs-weaviate-4kfi"
-author: "polliog"
+author: "Polliog"
 category: "llmops-infra"
 ---
 
-# Postgresql As A Vector Database When To Use Pgvector Vs Pinecone Vs Weaviate
-**Author:** polliog
+# PostgreSQL as a Vector Database: When to Use pgvector vs Pinecone vs Weaviate
+**Author:** Polliog
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Decision guide for choosing between pgvector, Pinecone, and Weaviate for vector database needs in production.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

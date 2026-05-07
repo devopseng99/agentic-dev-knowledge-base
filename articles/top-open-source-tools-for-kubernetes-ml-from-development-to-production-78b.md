@@ -1,19 +1,18 @@
 ---
-title: "Top Open Source Tools For Kubernetes Ml From Development To Production"
+title: "Top Open Source Tools for Kubernetes ML: From Development to Production"
 url: "https://dev.to/jozu/top-open-source-tools-for-kubernetes-ml-from-development-to-production-78b"
-author: "jozu"
+author: "Jozu"
 category: "llmops-infra"
 ---
 
-# Top Open Source Tools For Kubernetes Ml From Development To Production
-**Author:** jozu
+# Top Open Source Tools for Kubernetes ML: From Development to Production
+**Author:** Jozu
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Open source tools for Kubernetes-based ML from development to production including serving, monitoring, and orchestration.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

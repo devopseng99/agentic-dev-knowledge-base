@@ -1,19 +1,18 @@
 ---
-title: "Serving Llms At Scale With Kitops Kubeflow And Kserve"
+title: "Serving LLMs at Scale with KitOps, Kubeflow, and KServe"
 url: "https://dev.to/jozu/serving-llms-at-scale-with-kitops-kubeflow-and-kserve-dii"
-author: "jozu"
+author: "Jozu"
 category: "llmops-infra"
 ---
 
-# Serving Llms At Scale With Kitops Kubeflow And Kserve
-**Author:** jozu
+# Serving LLMs at Scale with KitOps, Kubeflow, and KServe
+**Author:** Jozu
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Scaling LLM serving with KitOps, Kubeflow, and KServe on Kubernetes for production inference workloads.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

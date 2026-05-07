@@ -1,19 +1,18 @@
 ---
-title: "Runtime Guardrails For Ai Agents Steer Dont Block"
+title: "Runtime Guardrails for AI Agents - Steer, Don't Block"
 url: "https://dev.to/aws/runtime-guardrails-for-ai-agents-steer-dont-block-278n"
-author: "aws"
+author: "AWS"
 category: "llmops-infra"
 ---
 
-# Runtime Guardrails For Ai Agents Steer Dont Block
-**Author:** aws
+# Runtime Guardrails for AI Agents - Steer, Don't Block
+**Author:** AWS
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+AWS approach to runtime guardrails that steer agent behavior rather than blocking, maintaining agent utility while ensuring safety.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

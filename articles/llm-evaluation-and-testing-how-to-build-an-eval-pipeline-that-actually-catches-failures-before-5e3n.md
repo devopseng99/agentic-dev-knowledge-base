@@ -1,19 +1,18 @@
 ---
-title: "Llm Evaluation And Testing How To Build An Eval Pipeline That Actually Catches Failures Before"
+title: "LLM Evaluation and Testing: How to Build an Eval Pipeline That Actually Catches Failures"
 url: "https://dev.to/pockit_tools/llm-evaluation-and-testing-how-to-build-an-eval-pipeline-that-actually-catches-failures-before-5e3n"
-author: "pockit_tools"
+author: "Pockit Tools"
 category: "llmops-infra"
 ---
 
-# Llm Evaluation And Testing How To Build An Eval Pipeline That Actually Catches Failures Before
-**Author:** pockit_tools
+# LLM Evaluation and Testing: How to Build an Eval Pipeline That Actually Catches Failures
+**Author:** Pockit Tools
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Building evaluation pipelines that catch LLM failures before production deployment.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

@@ -1,19 +1,18 @@
 ---
-title: "Vector Database Performance Compared Pgvector Vs Pinecone Vs Qdrant Vs Weaviate"
+title: "Vector Database Performance Compared: pgvector vs Pinecone vs Qdrant vs Weaviate"
 url: "https://dev.to/kencho/vector-database-performance-compared-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-2ne6"
-author: "kencho"
+author: "Kencho"
 category: "llmops-infra"
 ---
 
-# Vector Database Performance Compared Pgvector Vs Pinecone Vs Qdrant Vs Weaviate
-**Author:** kencho
+# Vector Database Performance Compared: pgvector vs Pinecone vs Qdrant vs Weaviate
+**Author:** Kencho
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Performance comparison: Qdrant wins on raw speed (22ms p95 vs Pinecone 45ms at 10M vectors). Covers pgvector, Pinecone, Qdrant, Weaviate.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns
