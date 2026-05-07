@@ -1,39 +1,28 @@
 ---
-title: "I Built Infrastructure for 20 AI Agents That Run Themselves - For 4.57 Euro per Month"
+title: "I Built Infrastructure for 20 AI Agents That Run Themselves — For €4.57/Month"
 url: "https://dev.to/vystartasv/i-built-infrastructure-for-20-ai-agents-that-run-themselves-for-eu457month-1p5l"
 author: "Vilius"
-category: "llmops-infra"
+category: "autonomous-business"
 ---
-
-# I Built Infrastructure for 20 AI Agents That Run Themselves
-**Author:** Vilius
-**Published:** May 5, 2026
+# I Built Infrastructure for 20 AI Agents That Run Themselves — For €4.57/Month
+**Author:** Vilius  **Published:** May 5, 2026
 
 ## Overview
-Self-sustaining infrastructure supporting 20 autonomous AI agents on a Hetzner CX23 VPS for under 5 EUR/month. Includes Knowledge API, LLM config registry, operations layer, and a 10-pattern methodology developed over 5 months.
+The author describes building and operating 20 autonomous AI agents on minimal infrastructure. The project encompasses multiple services: a knowledge API, a blueprint registry for LLM configurations, educational content, and operations infrastructure. Total monthly cost is €4.57 on a Hetzner VPS.
 
 ## Key Concepts
 
-### Infrastructure Components
-- **workswithagents.dev** - Knowledge API for agent queries (facts, skills, known issues)
-- **workswithagents.io** - Registry of verified LLM configurations with hardware-specific performance
-- **workswithagents.com** - Educational content and methodology
-- **bastiongateway.com** - Operations layer (licensing, monitoring, agent proxying)
+1. Boot, Skills, Memory, Decision Protocols, Tool Composition
+2. Orchestration, Pipelines, Resilience, Verification, Compounding
+3. Infrastructure-for-agents rather than agent applications
+4. "Picks and shovels" approach to the agent economy
 
-### 10-Pattern Methodology
-1. **Boot** - Initial session setup with documentation and foundational memory
-2. **Skills** - 153 queryable reusable procedural knowledge items
-3. **Memory** - Persistent facts preventing repeated explanations
-4. **Decision Protocols** - Autonomous vs approval-required actions
-5. **Tool Composition** - Optimal tool selection per task
-6. **Orchestration** - Parallel specialist agents (3x throughput)
-7. **Pipelines** - Background processes via cron without human intervention
-8. **Resilience** - Continuous operation with error recovery
-9. **Verify** - Automated validation (77% pass rate across 61 tests)
-10. **Compounding** - Knowledge accumulation for qualitative improvement
+**Infrastructure**
+- Platform: Hetzner VPS
+- Monthly cost: €4.57
+- Services: workswithagents.dev (knowledge API), workswithagents.io (blueprint registry), workswithagents.com (education), bastiongateway.com (operations)
 
-### Results
-- 20 autonomous agents managing self-improvement cycles
-- 111 web parts and 5 backend services scaffolded autonomously in 3 days
-- Zero human intervention across 11 consecutive builds
-- Cross-agent error detection and correction
+**Philosophy**
+"Everyone's building agents. I'm building infrastructure FOR agents."
+
+Status: Pre-revenue, pre-launch infrastructure with live APIs.

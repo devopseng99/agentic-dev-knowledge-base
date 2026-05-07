@@ -2,24 +2,18 @@
 title: "Testing AI Systems in Production: From LLM Evals to Agent Reliability"
 url: "https://dev.to/inferencedaily/testing-ai-systems-in-production-from-llm-evals-to-agent-reliability-23l0"
 author: "InferenceDaily"
-category: "LLM agent evaluation"
+category: "agent-research-testing"
 ---
-
 # Testing AI Systems in Production: From LLM Evals to Agent Reliability
-
-**Author:** InferenceDaily
-**Published:** April 27, 2026
+**Author:** InferenceDaily  **Published:** April 27, 2026
 
 ## Overview
-The article argues that traditional unit testing approaches are insufficient for AI systems. Conventional testing verifies deterministic outputs, whereas AI requires evaluation against useful outputs for messy, ambiguous inputs. Key insight: "The danger isn't a crash. It is the confidence with which the model lies."
+Critiques traditional unit testing approaches for LLM systems, arguing they're fundamentally incompatible with AI evaluation. The danger isn't a crash — "it is the confidence with which the model lies." Testing must validate output truthfulness against source data, not just format compliance.
 
 ## Key Concepts
+1. **Hallucination Detection** — Testing must validate output truthfulness against source data. Mock vector databases and weak context scenarios expose when models invent information.
+2. **Retrieval Evaluation** — Test agents against scenarios with missing or weak context to expose hallucination.
+3. **Agent Reliability** — Agents require logging every tool invocation and evaluating actual decisions, not internal reasoning chains. Risks include agents calling production DELETE endpoints instead of staging environments.
+4. **Stateful Systems** — Agents operate as "stateful simulations of humans" requiring reliability engineering principles beyond deployment procedures.
 
-### Hallucination Problem
-When an LLM invents contract clauses during summarization, basic character-count validation fails. The solution requires retrieval evaluation pipelines that mock the vector database, acknowledging that weak context produces hallucinations.
-
-### Agent Reliability Strategy
-For stateful AI agents, abandon reliance on the model's reasoning chain. Instead, force agents to log every tool use and evaluate those logs -- examining whether agents verify status codes and handle retries appropriately.
-
-### Key Finding
-"Most agents I have audited pass basic unit tests but fail miserably" under real production conditions.
+Tags: #ai #discuss #llm #testing
