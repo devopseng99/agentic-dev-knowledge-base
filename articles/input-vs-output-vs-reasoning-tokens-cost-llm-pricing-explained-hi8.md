@@ -1,19 +1,18 @@
 ---
-title: "Input Vs Output Vs Reasoning Tokens Cost Llm Pricing Explained"
+title: "Input vs Output vs Reasoning Tokens Cost - LLM Pricing Explained"
 url: "https://dev.to/rahulxsingh/input-vs-output-vs-reasoning-tokens-cost-llm-pricing-explained-hi8"
-author: "rahulxsingh"
+author: "Rahul Singh"
 category: "llmops-infra"
 ---
 
-# Input Vs Output Vs Reasoning Tokens Cost Llm Pricing Explained
-**Author:** rahulxsingh
+# Input vs Output vs Reasoning Tokens Cost - LLM Pricing Explained
+**Author:** Rahul Singh
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Differences between input, output, and reasoning tokens with pricing comparisons for GPT-4o, Claude, Gemini, and o3.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

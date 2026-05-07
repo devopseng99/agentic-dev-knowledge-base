@@ -1,19 +1,18 @@
 ---
-title: "Build An End To End Rag Pipeline For Llm Applications"
+title: "Build an End-to-End RAG Pipeline for LLM Applications"
 url: "https://dev.to/digitalocean/build-an-end-to-end-rag-pipeline-for-llm-applications-1330"
-author: "digitalocean"
+author: "DigitalOcean"
 category: "llmops-infra"
 ---
 
-# Build An End To End Rag Pipeline For Llm Applications
-**Author:** digitalocean
+# Build an End-to-End RAG Pipeline for LLM Applications
+**Author:** DigitalOcean
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Designing and building a complete RAG pipeline with architectural considerations, optimization strategies, and production challenges.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

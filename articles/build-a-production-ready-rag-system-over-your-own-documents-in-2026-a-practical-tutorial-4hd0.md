@@ -1,19 +1,18 @@
 ---
-title: "Build A Production Ready Rag System Over Your Own Documents In 2026 A Practical Tutorial"
+title: "Build a Production-Ready RAG System Over Your Own Documents in 2026"
 url: "https://dev.to/dharshan_a_23835c7dc05682/build-a-production-ready-rag-system-over-your-own-documents-in-2026-a-practical-tutorial-4hd0"
-author: "dharshan_a_23835c7dc05682"
+author: "Dharshan A"
 category: "llmops-infra"
 ---
 
-# Build A Production Ready Rag System Over Your Own Documents In 2026 A Practical Tutorial
-**Author:** dharshan_a_23835c7dc05682
+# Build a Production-Ready RAG System Over Your Own Documents in 2026
+**Author:** Dharshan A
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Building a reliable, evaluable, scalable RAG pipeline with smart chunking, hybrid retrieval, reranking, evaluation, and guardrails.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

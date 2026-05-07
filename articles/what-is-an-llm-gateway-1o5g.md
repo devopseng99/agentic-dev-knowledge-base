@@ -1,19 +1,18 @@
 ---
-title: "What Is An Llm Gateway"
+title: "What is an LLM Gateway?"
 url: "https://dev.to/smakosh/what-is-an-llm-gateway-1o5g"
-author: "smakosh"
+author: "Smakosh"
 category: "llmops-infra"
 ---
 
-# What Is An Llm Gateway
-**Author:** smakosh
+# What is an LLM Gateway?
+**Author:** Smakosh
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+An LLM Gateway acts as a centralized orchestration layer between applications and AI models, enabling intelligent request routing based on model availability, cost, latency, or custom rules.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

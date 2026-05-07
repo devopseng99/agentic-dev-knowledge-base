@@ -1,19 +1,18 @@
 ---
-title: "Private Rag Deployment Building Zero Leakage Retrieval Pipelines For Enterprise"
+title: "Private RAG Deployment: Building Zero-Leakage Retrieval Pipelines for Enterprise"
 url: "https://dev.to/jaipalsingh/private-rag-deployment-building-zero-leakage-retrieval-pipelines-for-enterprise-2ibn"
-author: "jaipalsingh"
+author: "Jaipal Singh"
 category: "llmops-infra"
 ---
 
-# Private Rag Deployment Building Zero Leakage Retrieval Pipelines For Enterprise
-**Author:** jaipalsingh
+# Private RAG Deployment: Building Zero-Leakage Retrieval Pipelines for Enterprise
+**Author:** Jaipal Singh
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Air-gapped RAG architectures where every component runs on infrastructure you control with network segmentation enforcement.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

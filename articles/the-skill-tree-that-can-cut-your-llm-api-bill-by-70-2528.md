@@ -1,19 +1,18 @@
 ---
-title: "The Skill Tree That Can Cut Your Llm Api Bill By 70"
+title: "The Skill Tree That Cut My LLM API Bill by 70%"
 url: "https://dev.to/ji_ai/the-skill-tree-that-can-cut-your-llm-api-bill-by-70-2528"
-author: "ji_ai"
+author: "JI AI"
 category: "llmops-infra"
 ---
 
-# The Skill Tree That Can Cut Your Llm Api Bill By 70
-**Author:** ji_ai
+# The Skill Tree That Cut My LLM API Bill by 70%
+**Author:** JI AI
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Prompt caching saves 90% on input tokens, semantic caching adds 30-50%, achieving 60-80% total cost reduction.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

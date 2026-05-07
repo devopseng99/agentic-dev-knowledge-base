@@ -1,19 +1,18 @@
 ---
-title: "The Complete Guide To Ai Agent Observability In Production"
+title: "The Complete Guide to AI Agent Observability in Production"
 url: "https://dev.to/jay_guthrie_8acc3733d3f33/the-complete-guide-to-ai-agent-observability-in-production-jma"
-author: "jay_guthrie_8acc3733d3f33"
+author: "Jay Guthrie"
 category: "llmops-infra"
 ---
 
-# The Complete Guide To Ai Agent Observability In Production
-**Author:** jay_guthrie_8acc3733d3f33
+# The Complete Guide to AI Agent Observability in Production
+**Author:** Jay Guthrie
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Complete guide to AI agent observability covering tracing, monitoring, and evaluation in production environments.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns

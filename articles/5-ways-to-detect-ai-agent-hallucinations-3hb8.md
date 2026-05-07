@@ -1,19 +1,18 @@
 ---
-title: "5 Ways To Detect Ai Agent Hallucinations"
+title: "5 Ways to Detect AI Agent Hallucinations"
 url: "https://dev.to/kamya_shah_e69d5dd78f831c/5-ways-to-detect-ai-agent-hallucinations-3hb8"
-author: "kamya_shah_e69d5dd78f831c"
+author: "Kamya Shah"
 category: "llmops-infra"
 ---
 
-# 5 Ways To Detect Ai Agent Hallucinations
-**Author:** kamya_shah_e69d5dd78f831c
+# 5 Ways to Detect AI Agent Hallucinations
+**Author:** Kamya Shah
 **Published:** 2026
 
 ## Overview
-Article covering LLMOps infrastructure, agent operations, and production AI system management topics.
+Five detection methods for AI agent hallucinations in production including factuality checks and automated validation.
 
 ## Key Concepts
-- Production LLM/agent infrastructure patterns
+- Production LLM/agent infrastructure
 - Operational best practices
-- Scaling and reliability considerations
-- Cost optimization and monitoring
+- Scaling and monitoring patterns
