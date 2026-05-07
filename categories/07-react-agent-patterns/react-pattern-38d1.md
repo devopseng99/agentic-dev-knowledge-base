@@ -1,0 +1,1 @@
+../../articles/react-pattern-38d1.md

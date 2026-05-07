@@ -1,0 +1,1 @@
+../../articles/how-to-use-function-calling-with-openais-new-tools-feature-to-solve-word-problems-5146.md

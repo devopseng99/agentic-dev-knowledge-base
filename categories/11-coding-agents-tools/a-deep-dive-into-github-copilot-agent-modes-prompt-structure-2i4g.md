@@ -1,0 +1,1 @@
+../../articles/a-deep-dive-into-github-copilot-agent-modes-prompt-structure-2i4g.md

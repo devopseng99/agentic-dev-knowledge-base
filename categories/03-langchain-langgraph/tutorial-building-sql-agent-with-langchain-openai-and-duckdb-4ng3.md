@@ -1,0 +1,1 @@
+../../articles/tutorial-building-sql-agent-with-langchain-openai-and-duckdb-4ng3.md

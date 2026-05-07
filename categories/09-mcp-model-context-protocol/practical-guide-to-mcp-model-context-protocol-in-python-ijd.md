@@ -1,0 +1,1 @@
+../../articles/practical-guide-to-mcp-model-context-protocol-in-python-ijd.md
