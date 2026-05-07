@@ -2,20 +2,19 @@
 title: "ACP: The Protocol Standard for AI Agent Interoperability"
 url: "https://dev.to/gocodeo/acp-the-protocol-standard-for-ai-agent-interoperability-37cm"
 author: "Jatin Garg"
-category: "agent-collaboration-protocol"
+category: "a2a-protocols"
 ---
 
 # ACP: The Protocol Standard for AI Agent Interoperability
-
-**Author:** Jatin Garg (CTO, GoCodeo)
+**Author:** Jatin Garg
 **Published:** May 18, 2025
 
 ## Overview
-Agent Communication Protocol (ACP) -- lightweight, REST-based protocol enabling real-time, local-first agent collaboration without cloud dependencies. Enables agents on different stacks to communicate seamlessly.
+Introduction to ACP (Agent Communication Protocol), a lightweight REST-based protocol for real-time, local-first agent collaboration enabling agents built on different stacks to communicate seamlessly without cloud dependencies.
 
 ## Key Concepts
-- AI agents operate in silos limited by custom integrations
-- ACP provides standardized communication layer
-- REST-based for familiar HTTP tooling
-- Local-first design reduces cloud dependency
-- Framework-agnostic interoperability
+- Addresses AI agents operating in silos due to custom integrations and incompatible frameworks
+- REST-based protocol for real-time communication
+- Local-first design without cloud dependencies
+- Eliminates vendor lock-in
+- Enables distributed agent networks
