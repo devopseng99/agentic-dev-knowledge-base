@@ -4,7 +4,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 
 ## Stats
 
-- **Total Articles:** 244
+- **Total Articles:** 257
 - **Source:** [dev.to](https://dev.to)
 - **Topics:** 20 categories
 - **Last Updated:** 2026-05-07
@@ -106,10 +106,11 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Tutorial: Building SQL Agent with Langchain, OpenAI and DuckDB](articles/tutorial-building-sql-agent-with-langchain-openai-and-duckdb-4ng3.md)
 - [Why CrewAI, AutoGen, and LangGraph Agents Need Screenshots: Context Drift Prevention](articles/why-crewai-autogen-and-langgraph-agents-need-screenshots-context-drift-prevention-5em0.md)
 
-### Crewai Autogen Multi Agent (27 articles)
+### Crewai Autogen Multi Agent (28 articles)
 
 - [A2A - Understanding the Basics and Building Multi-Agent Flight Management System](articles/a2a-understanding-the-basics-and-building-multi-agent-flight-management-system-39c7.md)
 - [Adding Multi-Agent Orchestration to a Vercel AI SDK App](articles/adding-multi-agent-orchestration-to-a-vercel-ai-sdk-app-4536.md)
+- [Advanced Pydantic AI Agents: Building a Multi-Agent System in Pydantic AI](articles/advanced-pydantic-ai-agents-building-a-multi-agent-system-in-pydantic-ai-1hok.md)
 - [Agent Development Kit: Making it easy to build multi-agent applications](articles/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594.md)
 - [Agentic AI Frameworks Comparison 2025: MCP-Agent, LangGraph, AG2, PydanticAI, CrewAI](articles/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40.md)
 - [Build a Multi-Agent Telecom Support System with CopilotKit & LangGraph JS](articles/build-a-multi-agent-telecom-support-system-with-copilotkit-langgraph-js-52oc.md)
@@ -136,12 +137,13 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [The Best Agentic AI Framework Options for Building Multi Agent Systems in 2025](articles/the-best-agentic-ai-framework-options-for-building-multi-agent-systems-in-2025-3l9l.md)
 - [Why CrewAI, AutoGen, and LangGraph Agents Need Screenshots: Context Drift Prevention](articles/why-crewai-autogen-and-langgraph-agents-need-screenshots-context-drift-prevention-5em0.md)
 
-### Openai Agents Function Calling (17 articles)
+### Openai Agents Function Calling (18 articles)
 
 - [Build Function-Calling Agents in Node.js with Agentic](articles/build-function-calling-agents-in-nodejs-with-agentic-315c.md)
 - [Building AI Agents from Scratch: A Deep Dive into Function Calling, Tool Use, and Agentic Patterns](articles/building-ai-agents-from-scratch-a-deep-dive-into-function-calling-tool-use-and-agentic-patterns-382g.md)
 - [Building AI agents with the Semantic Kernel SDK and Azure OpenAI](articles/building-ai-agents-with-the-semantic-kernel-sdk-and-azure-openai-hbb.md)
 - [Building a Proactive Web-Scraping Agent with Python, Firecrawl, and Azure OpenAI](articles/building-a-proactive-web-scraping-agent-with-python-firecrawl-and-azure-openai-4813.md)
+- [Building Voice AI Agents with the OpenAI Agents SDK](articles/building-voice-ai-agents-with-the-openai-agents-sdk-2aog.md)
 - [Build Multi-Agent AI System with OpenAI Swarm using Ollama](articles/build-multi-agent-ai-system-with-openai-swarm-using-ollama-4g06.md)
 - [Build Your First Multi-Agent System with OpenAI Agents SDK -- Step-by-Step Python Tutorial (2026)](articles/build-your-first-multi-agent-system-with-openai-agents-sdk-step-by-step-python-tutorial-2026-2n79.md)
 - [Creating an SQL Agent Using OpenAI and Python](articles/creating-an-sql-agent-using-openai-and-python-13if.md)
@@ -156,7 +158,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Tool Use AI Agents Python: Build Function-Calling Bots](articles/tool-use-ai-agents-python-build-function-calling-bots-2i90.md)
 - [Tutorial: Building SQL Agent with Langchain, OpenAI and DuckDB](articles/tutorial-building-sql-agent-with-langchain-openai-and-duckdb-4ng3.md)
 
-### Claude Anthropic Agents (21 articles)
+### Claude Anthropic Agents (22 articles)
 
 - [8 Agentic Coding Patterns That Ship 10x Faster](articles/8-agentic-coding-patterns-that-ship-10x-faster-cursor-windsurf-claude-code-2h0j.md)
 - [AI Coding Agent Security: Practical Guardrails for Claude Code, Copilot, and Codex](articles/ai-coding-agent-security-practical-guardrails-for-claude-code-copilot-and-codex-och.md)
@@ -166,6 +168,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Building a Health Data Chat Agent with Claude and the Microsoft Agent Framework](articles/building-a-health-data-chat-agent-with-claude-and-the-microsoft-agent-framework-2pj2.md)
 - [Claude API in Production: The Complete Developer Guide (2026)](articles/claude-api-in-production-the-complete-developer-guide-2026-1hf2.md)
 - [Claude API Tool Use: Building Reliable Agentic Workflows in Production](articles/claude-api-tool-use-building-reliable-agentic-workflows-in-production-d2o.md)
+- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](articles/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5.md)
 - [Claude Code vs Cursor vs GitHub Copilot: Honest Comparison After 30 Days](articles/claude-code-vs-cursor-vs-github-copilot-honest-comparison-after-30-days-1030.md)
 - [Claude Expert: The 4 Official (Free) Anthropic Courses](articles/claude-expert-the-4-official-free-anthropic-courses-4k89.md)
 - [Generating Python Code Using Anthropic API for Claude AI](articles/generating-python-code-using-anthropic-api-for-claude-ai-4ma4.md)
@@ -205,13 +208,14 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Retrieval-Augmented Generation (RAG) Agents: How to Build Grounded, Tool-Using GenAI Systems](articles/retrieval-augmented-generation-rag-agents-how-to-build-grounded-tool-using-genai-systems-fhf.md)
 - [Retrieval Augmented Generation (RAG) from Scratch - Tutorial For Dummies](articles/retrieval-augmented-generation-rag-from-scratch-tutorial-for-dummies-508a.md)
 
-### Mcp Model Context Protocol (11 articles)
+### Mcp Model Context Protocol (12 articles)
 
 - [Agentic AI Frameworks Comparison 2025: MCP-Agent, LangGraph, AG2, PydanticAI, CrewAI](articles/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40.md)
 - [A Hands-On Guide to Model Context Protocol (MCP)](articles/a-hands-on-guide-to-model-context-protocol-mcp-5hfo.md)
 - [Building Your First Agentic AI: Complete Guide to MCP + Ollama Tool Calling](articles/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g.md)
 - [Complete Guide to MCP (Model Context Protocol) in 2026: Architecture, Implementation](articles/complete-guide-to-mcp-model-context-protocol-in-2026-architecture-implementation-and-4a11.md)
 - [MCP Explained: How the Model Context Protocol Transforms AI in the Cloud](articles/mcp-explained-how-the-model-context-protocol-transforms-ai-in-the-cloud-4hba.md)
+- [MCP Guardrails: Mitigating Data Poisoning and Prompt Injection in AI Coding Assistants](articles/mcp-guardrails-mitigating-data-poisoning-and-prompt-injection-in-ai-coding-assistants-41o3.md)
 - [Model Context Protocol (MCP): 8 MCP Servers Every Developer Should Try](articles/model-context-protocol-mcp-8-mcp-servers-every-developer-should-try-5hm2.md)
 - [Model Context Protocol (MCP) Explained for Developers: Why AI Agents Need It](articles/model-context-protocol-mcp-explained-for-developers-why-ai-agents-need-it-e5j.md)
 - [Practical Guide to MCP (Model Context Protocol) in Python](articles/practical-guide-to-mcp-model-context-protocol-in-python-ijd.md)
@@ -286,7 +290,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Monitoring AI Agent Actions in Production: A Developer's Guide](articles/monitoring-ai-agent-actions-in-production-a-developers-guide-25pl.md)
 - [Understanding AI Agents: Thought, Action, and Observation in Practice](articles/understanding-ai-agents-thought-action-and-observation-in-practice-509i.md)
 
-### Agent Deployment Production (24 articles)
+### Agent Deployment Production (25 articles)
 
 - [7 AI Agent Evaluation Patterns That Catch Failures Before Production](articles/7-ai-agent-evaluation-patterns-that-catch-failures-before-production-480j.md)
 - [8 AI Coding Agents That Actually Ship Production Code in 2026](articles/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch.md)
@@ -306,6 +310,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Multi-Agent AI in 2026: Build Production Systems with CrewAI, LangGraph & AutoGen](articles/multi-agent-ai-in-2026-build-production-systems-with-crewai-langgraph-autogen-5e40.md)
 - [Powering Up Your Agent in Production with ADK, OAuth and Gemini Enterprise](articles/powering-up-your-agent-in-production-with-adk-oauth-and-gemini-enterprise-2mi1.md)
 - [Production AI Agents in Kubernetes: A 7-Control Checklist for Platform Teams](articles/production-ai-agents-in-kubernetes-a-7-control-checklist-for-platform-teams-4jd5.md)
+- [Pydantic AI Tutorial: How I Build Type-Safe AI Agents That Actually Work in Production](articles/pydantic-ai-tutorial-how-i-build-type-safe-ai-agents-that-actually-work-in-production-3bcp.md)
 - [Running Any AI Agent on Kubernetes: Step-by-Step](articles/running-any-ai-agent-on-kubernetes-step-by-step-10n5.md)
 - [Seamless AI Agent Deployment: A Step-by-Step Guide with Real-World Challenges](articles/seamless-ai-agent-deployment-a-step-by-step-guide-with-real-world-challenges-516m.md)
 - [Vercel AI SDK Complete Guide: Building Production-Ready AI Chat Apps with Next.js](articles/vercel-ai-sdk-complete-guide-building-production-ready-ai-chat-apps-with-nextjs-4cp6.md)
@@ -330,17 +335,21 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Token Cost Optimization for AI Agents: 7 Patterns That Cut Our Bill by 73%](articles/token-cost-optimization-for-ai-agents-7-patterns-that-cut-our-bill-by-73-1aie.md)
 - [Vercel AI SDK useChat in Production: Streaming, Errors, and the Patterns Nobody Writes About](articles/vercel-ai-sdk-usechat-in-production-streaming-errors-and-the-patterns-nobody-writes-about-4ecf.md)
 
-### Agent Security (4 articles)
+### Agent Security (5 articles)
 
 - [AI Coding Agent Security: Practical Guardrails for Claude Code, Copilot, and Codex](articles/ai-coding-agent-security-practical-guardrails-for-claude-code-copilot-and-codex-och.md)
+- [MCP Guardrails: Mitigating Data Poisoning and Prompt Injection in AI Coding Assistants](articles/mcp-guardrails-mitigating-data-poisoning-and-prompt-injection-in-ai-coding-assistants-41o3.md)
 - [Stop the Hijack: A Developer's Guide to AI Agent Security and Tool Guardrails](articles/stop-the-hijack-a-developers-guide-to-ai-agent-security-and-tool-guardrails-5g9m.md)
 - [The Prompt Injection Problem: A Guide to Defense-in-Depth for AI Agents](articles/the-prompt-injection-problem-a-guide-to-defense-in-depth-for-ai-agents-3p1.md)
 - [Why AI Agents Need Guardrails (Not Just Prompts)](articles/why-ai-agents-need-guardrails-not-just-prompts-3pe.md)
 
-### Voice Realtime Agents (2 articles)
+### Voice Realtime Agents (5 articles)
 
 - [Building a Real-Time Conversational AI Agent with LiveKit, Gemini & Express](articles/building-a-real-time-conversational-ai-agent-with-livekit-gemini-express-3ho4.md)
 - [Building Multi-Agent Conversations with WebRTC & LiveKit](articles/building-multi-agent-conversations-with-webrtc-livekit-48f1.md)
+- [Building Voice AI Agents with the OpenAI Agents SDK](articles/building-voice-ai-agents-with-the-openai-agents-sdk-2aog.md)
+- [Real-Time Voice Interactions over WebRTC](articles/real-time-voice-interactions-over-webrtc-1p81.md)
+- [The Complete Guide to Streaming LLM Responses in Web Applications](articles/the-complete-guide-to-streaming-llm-responses-in-web-applications-from-sse-to-real-time-ui-3534.md)
 
 ### Agent Testing Evaluation (5 articles)
 
@@ -395,12 +404,14 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [A Deep Dive into GitHub Copilot Agent Mode's Prompt Structure](articles/a-deep-dive-into-github-copilot-agent-modes-prompt-structure-2i4g.md)
 - [Advanced LangGraph: Building Intelligent Agents with ReACT Architecture](articles/advanced-langgraph-building-intelligent-agents-with-react-architecture-1ma8.md)
 - [Advanced LangGraph: Implementing Conditional Edges and Tool-Calling Agents](articles/advanced-langgraph-implementing-conditional-edges-and-tool-calling-agents-3pdn.md)
+- [Advanced Pydantic AI Agents: Building a Multi-Agent System in Pydantic AI](articles/advanced-pydantic-ai-agents-building-a-multi-agent-system-in-pydantic-ai-1hok.md)
 - [Agent Development Kit: Making it easy to build multi-agent applications](articles/agent-development-kit-making-it-easy-to-build-multi-agent-applications-4594.md)
 - [Agentic AI Design Patterns](articles/agentic-ai-design-patterns-168m.md)
 - [Agentic AI for Developers: Building Autonomous AI Systems Instead of Chatbots](articles/agentic-ai-for-developers-building-autonomous-ai-systems-instead-of-chatbots-3kj6.md)
 - [Agentic AI Frameworks Comparison 2025: MCP-Agent, LangGraph, AG2, PydanticAI, CrewAI](articles/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40.md)
 - [Agentic Coding: The Most Fun Way to Build LLM Apps](articles/agentic-coding-the-most-fun-way-to-build-llm-apps-5p1.md)
 - [Agents 101: Build and Deploy AI Agents to Production using LangChain](articles/agents-101-build-and-deploy-ai-agents-to-production-using-langchain-535k.md)
+- [Agents with Human in the Loop: Everything You Need to Know](articles/agents-with-human-in-the-loop-everything-you-need-to-know-3fo5.md)
 - [A Hands-On Guide to Model Context Protocol (MCP)](articles/a-hands-on-guide-to-model-context-protocol-mcp-5hfo.md)
 - [AI Agent Architecture: Building Systems That Think, Plan, and Act](articles/ai-agent-architecture-building-systems-that-think-plan-and-act-4ca0.md)
 - [AI Agent Builders Explained: From Zero-Code to Autonomous Workflows](articles/ai-agent-builders-explained-from-zero-code-to-autonomous-workflows-180.md)
@@ -470,6 +481,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Building Production-Ready AI Agents with Pydantic AI and Amazon Bedrock AgentCore](articles/building-production-ready-ai-agents-with-pydantic-ai-and-amazon-bedrock-agentcore-738.md)
 - [Building Smarter AI Agents with Schema-Guided Reasoning](articles/building-smarter-ai-agents-with-schema-guided-reasoning-m3n.md)
 - [Building Stateful LLM Agents with LangGraph](articles/building-stateful-llm-agents-with-langgraph-4b9k.md)
+- [Building Voice AI Agents with the OpenAI Agents SDK](articles/building-voice-ai-agents-with-the-openai-agents-sdk-2aog.md)
 - [Building Your First Agentic AI: Complete Guide to MCP + Ollama Tool Calling](articles/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g.md)
 - [Building Your First AI Agent in Node.js: A Deep Dive](articles/building-your-first-ai-agent-in-nodejs-a-deep-dive-1ei9.md)
 - [Building Your First AI Agent with LangChain and Open APIs](articles/building-your-first-ai-agent-with-langchain-and-open-apis-g06.md)
@@ -484,6 +496,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Choosing the Right AI Agent Frameworks for Your Project](articles/choosing-the-right-ai-agent-frameworks-for-your-project-253a.md)
 - [Claude API in Production: The Complete Developer Guide (2026)](articles/claude-api-in-production-the-complete-developer-guide-2026-1hf2.md)
 - [Claude API Tool Use: Building Reliable Agentic Workflows in Production](articles/claude-api-tool-use-building-reliable-agentic-workflows-in-production-d2o.md)
+- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](articles/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5.md)
 - [Claude Code vs Cursor vs GitHub Copilot: Honest Comparison After 30 Days](articles/claude-code-vs-cursor-vs-github-copilot-honest-comparison-after-30-days-1030.md)
 - [Claude Expert: The 4 Official (Free) Anthropic Courses](articles/claude-expert-the-4-official-free-anthropic-courses-4k89.md)
 - [Cline vs Cursor: Which AI Coding Agent Should You Use?](articles/cline-vs-cursor-which-ai-coding-agent-should-you-use-1gli.md)
@@ -516,8 +529,10 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Google Agents CLI + Claude Code: Building Production-Style AI Agents in Under 30 Minutes](articles/google-agents-cli-claude-code-building-production-style-ai-agents-in-under-30-minutes-3icp.md)
 - [Google's A2A Protocol: How AI Agents Communicate Across Frameworks](articles/googles-a2a-protocol-how-ai-agents-communicate-across-frameworks-52jj.md)
 - [How Anyone Can Build AI Agents Without Writing Code](articles/how-anyone-can-build-ai-agents-without-writing-code-19jd.md)
+- [How I Added Human-in-the-Loop Approval to My AI Agent in 5 Minutes](articles/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm.md)
 - [How I Built 9 Autonomous AI Agents That Run 24/7](articles/how-i-built-9-autonomous-ai-agents-that-run-247-46hl.md)
 - [How I Built My First AI Agent Workflow in 2026 (No Framework Required)](articles/how-i-built-my-first-ai-agent-workflow-in-2026-no-framework-required-5gk5.md)
+- [How to Add Human Approval to AI Agent Actions](articles/how-to-add-human-approval-to-ai-agent-actions-keg.md)
 - [How to Build Agentic AI Systems: A Guide for Engineering Leaders](articles/how-to-build-agentic-ai-systems-a-guide-for-engineering-leaders-2nj7.md)
 - [How to Build AI Agents That Fail Safely: Circuit Breakers, Health Checks, and Graceful Degradation](articles/how-to-build-ai-agents-that-fail-safely-circuit-breakers-health-checks-and-graceful-degradation-1dce.md)
 - [How to Build an AI Agent Chatbot That Answers FAQs? Step by Step Guide](articles/how-to-build-an-ai-agent-chatbot-that-answers-faqs-step-by-step-guide-18i3.md)
@@ -554,6 +569,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Stop Parsing LLMs with Regex: Build Production-Ready AI Features with Schema-Enforced Outputs](articles/llm-structured-json-building-production-ready-ai-features-with-schema-enforced-outputs-4j2j.md)
 - [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call](articles/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96.md)
 - [MCP Explained: How the Model Context Protocol Transforms AI in the Cloud](articles/mcp-explained-how-the-model-context-protocol-transforms-ai-in-the-cloud-4hba.md)
+- [MCP Guardrails: Mitigating Data Poisoning and Prompt Injection in AI Coding Assistants](articles/mcp-guardrails-mitigating-data-poisoning-and-prompt-injection-in-ai-coding-assistants-41o3.md)
 - [Memory Is Not a Vector Database: Why AI Agents Need Beliefs, Not Storage](articles/memory-is-not-a-vector-database-why-ai-agents-need-beliefs-not-storage-2baj.md)
 - [Microsoft Agent Framework: Combining Semantic Kernel + Autogen for Advanced AI Agents](articles/microsoft-agent-framework-combining-semantic-kernel-autogen-for-advanced-ai-agents-2i4i.md)
 - [Migrating from Semantic Kernel to Microsoft Agent Framework: A C# Developer's Guide](articles/migrating-from-semantic-kernel-to-microsoft-agent-framework-a-c-developers-guide-3ad5.md)
@@ -577,11 +593,13 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Practical Guide to MCP (Model Context Protocol) in Python](articles/practical-guide-to-mcp-model-context-protocol-in-python-ijd.md)
 - [Predicting Your AI Agent's Cost](articles/predicting-your-ai-agents-cost-6m9.md)
 - [Production AI Agents in Kubernetes: A 7-Control Checklist for Platform Teams](articles/production-ai-agents-in-kubernetes-a-7-control-checklist-for-platform-teams-4jd5.md)
+- [Pydantic AI Tutorial: How I Build Type-Safe AI Agents That Actually Work in Production](articles/pydantic-ai-tutorial-how-i-build-type-safe-ai-agents-that-actually-work-in-production-3bcp.md)
 - [Python A2A: A Comprehensive Guide to Google's Agent-to-Agent Protocol](articles/python-a2a-a-comprehensive-guide-to-googles-agent-to-agent-protocol-1pk1.md)
 - [RAG Systems 101: Build Your First Retrieval-Augmented Generation System](articles/rag-systems-101-build-your-first-retrieval-augmented-generation-system-1675.md)
 - [ReAct Pattern](articles/react-pattern-38d1.md)
 - [ReAct (Reason + Act): A Smarter Way for Language Models to Think and Do](articles/react-reason-act-a-smarter-way-for-language-models-to-think-and-do-344o.md)
 - [ReAct vs Plan-and-Execute: A Practical Comparison of LLM Agent Patterns](articles/react-vs-plan-and-execute-a-practical-comparison-of-llm-agent-patterns-4gh9.md)
+- [Real-Time Voice Interactions over WebRTC](articles/real-time-voice-interactions-over-webrtc-1p81.md)
 - [Retrieval-Augmented Generation (RAG) Agents: How to Build Grounded, Tool-Using GenAI Systems](articles/retrieval-augmented-generation-rag-agents-how-to-build-grounded-tool-using-genai-systems-fhf.md)
 - [Retrieval Augmented Generation (RAG) from Scratch - Tutorial For Dummies](articles/retrieval-augmented-generation-rag-from-scratch-tutorial-for-dummies-508a.md)
 - [Running Any AI Agent on Kubernetes: Step-by-Step](articles/running-any-ai-agent-on-kubernetes-step-by-step-10n5.md)
@@ -589,9 +607,12 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [Seamless AI Agent Deployment: A Step-by-Step Guide with Real-World Challenges](articles/seamless-ai-agent-deployment-a-step-by-step-guide-with-real-world-challenges-516m.md)
 - [smolagents: The Simplest Way to Build Powerful AI Agents](articles/smolagents-the-simplest-way-to-build-powerful-ai-agents-18o.md)
 - [Step-by-Step Guide to Building Domain-Specific AI Agents with Phidata SDK](articles/step-by-step-guide-to-building-domain-specific-ai-agents-with-phidata-sdk-4l6f.md)
+- [Stop Building REST APIs for AI Agents (Use JSON-RPC)](articles/stop-building-rest-apis-for-ai-agents-use-json-rpc-hce.md)
 - [Stop the Hijack: A Developer's Guide to AI Agent Security and Tool Guardrails](articles/stop-the-hijack-a-developers-guide-to-ai-agent-security-and-tool-guardrails-5g9m.md)
 - [Streaming AI Responses in Next.js: Claude, OpenAI, and the Vercel AI SDK](articles/streaming-ai-responses-in-nextjs-claude-openai-and-the-vercel-ai-sdk-1gm3.md)
+- [SWE-agent -- Deep Dive & Build-Your-Own Guide](articles/swe-agent-deep-dive-build-your-own-guide-ade.md)
 - [SWE-bench, Agentic Coding, and What Actually Changed from Claude Sonnet 4.5 to 4.6](articles/swe-bench-agentic-coding-and-what-actually-changed-from-claude-sonnet-45-to-46-1gig.md)
+- [Talking to Machines: Building Low-Latency Voice Agents with OpenAI Realtime API](articles/talking-to-machines-building-low-latency-voice-agents-with-openai-realtime-api-3c7p.md)
 - [The 2026 AI Coding Assistant Showdown: Cursor vs Copilot vs Windsurf vs Cline vs Claude Code](articles/the-2026-ai-coding-assistant-showdown-cursor-vs-copilot-vs-windsurf-vs-cline-vs-claude-code-64e.md)
 - [The 2026 Architect's Dilemma: Orchestrating AI Agents, Not Writing Code](articles/the-2026-architects-dilemma-orchestrating-ai-agents-not-writing-code-the-paradigm-shift-from-219c.md)
 - [The 5 Types of AI Agent Memory Every Developer Needs to Know (Part 1)](articles/the-5-types-of-ai-agent-memory-every-developer-needs-to-know-part-1-52fn.md)
@@ -601,6 +622,7 @@ A curated collection of **dev.to** articles on agent-based development, AI agent
 - [The Best Way to Do Agentic Development in 2026](articles/the-best-way-to-do-agentic-development-in-2026-14mn.md)
 - [The Complete Guide to AI Agent Architectures: ReAct, CoT, and Tool Use](articles/the-complete-guide-to-ai-agent-architectures-react-cot-and-tool-use-4ab7.md)
 - [The Complete Guide to Building MCP Agents](articles/the-complete-guide-to-building-mcp-agents-543m.md)
+- [The Complete Guide to Streaming LLM Responses in Web Applications](articles/the-complete-guide-to-streaming-llm-responses-in-web-applications-from-sse-to-real-time-ui-3534.md)
 - [The Next Evolution of Code Agents is Coming](articles/the-next-evolution-of-code-agents-is-coming-311c.md)
 - [The Prompt Injection Problem: A Guide to Defense-in-Depth for AI Agents](articles/the-prompt-injection-problem-a-guide-to-defense-in-depth-for-ai-agents-3p1.md)
 - [The Rise of Autonomous AI Agents: From Prompt to Action](articles/the-rise-of-autonomous-ai-agents-from-prompt-to-action-46ja.md)
