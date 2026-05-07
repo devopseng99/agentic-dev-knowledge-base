@@ -2,25 +2,24 @@
 title: "Tutorial: Set Up Your First AI Agent Team in 5 Minutes"
 url: "https://dev.to/bridgeace/tutorial-set-up-your-first-ai-agent-team-in-5-minutes-21gk"
 author: "Bridge ACE"
-category: "agent-team-coordination"
+category: "agent-research-testing"
 ---
 # Tutorial: Set Up Your First AI Agent Team in 5 Minutes
 **Author:** Bridge ACE  **Published:** March 18, 2026
 
 ## Overview
-Step-by-step guide to launching a coordinated multi-agent AI system using Bridge ACE with three agents working in parallel.
+A quickstart guide demonstrating how to set up and run a coordinated team of three AI agents using Bridge ACE platform, from installation through real-time communication monitoring.
 
 ## Key Concepts
+- Multi-agent coordination and task distribution
+- WebSocket-based real-time communication
+- Scope locking to prevent file conflicts
+- Agent role definition (Coordinator, Backend Developer, Frontend Developer)
+- Health monitoring and cost tracking across agents
+- Integration with multiple AI CLI engines (Claude, Codex, Gemini, Qwen)
 
-### Installation
-```bash
-git clone https://github.com/Luanace-lab/bridge-ide.git
-cd bridge-ide
-./install.sh
-./Backend/start_platform.sh
-```
+## Code Examples
 
-### Team Configuration
 ```json
 {
   "agents": [
@@ -29,30 +28,11 @@ cd bridge-ide
       "role": "Project Coordinator",
       "engine": "claude",
       "scope": ["*"]
-    },
-    {
-      "id": "backend",
-      "role": "Backend Developer",
-      "engine": "codex",
-      "scope": ["src/api/", "src/models/"]
-    },
-    {
-      "id": "frontend",
-      "role": "Frontend Developer",
-      "engine": "claude",
-      "scope": ["src/ui/", "src/components/"]
     }
   ]
 }
 ```
 
-### UI Endpoints
-- Chat: `http://localhost:9111/chat.html`
-- Config: `http://localhost:9111/project_config.html`
-- Control Center: `http://localhost:9111/control_center.html` — live status, cost analysis, task board
+Prerequisites: Python 3.10+, tmux, and at least one AI CLI tool installed
 
-### Background Operations
-- Individual tmux sessions per agent with filesystem access
-- Real-time WebSocket communication
-- 16 background daemons managing health, crashes, rate limiting
-- File protection through Scope Locks
+Key Steps: Clone repository → Start platform → Open UI → Configure agents → Monitor coordination → Access control center

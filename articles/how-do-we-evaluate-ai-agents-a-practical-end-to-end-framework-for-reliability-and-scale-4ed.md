@@ -2,38 +2,20 @@
 title: "How Do We Evaluate AI Agents? A Practical, End-to-End Framework for Reliability and Scale"
 url: "https://dev.to/kuldeep_paul/how-do-we-evaluate-ai-agents-a-practical-end-to-end-framework-for-reliability-and-scale-4ed"
 author: "Kuldeep Paul"
-category: "LLM agent evaluation"
+category: "agent-research-testing"
 ---
-
 # How Do We Evaluate AI Agents? A Practical, End-to-End Framework for Reliability and Scale
-
-**Author:** Kuldeep Paul
-**Published:** November 13, 2025
+**Author:** Kuldeep Paul  **Published:** November 13, 2025
 
 ## Overview
-A structured methodology for assessing AI agents across multiple dimensions, emphasizing that agent evaluation differs fundamentally from single-turn LLM assessments. The framework organizes evaluations into seven primary categories with a four-pillar lifecycle approach.
+Addresses the challenge of evaluating autonomous AI agents — systems that plan, call tools, manage memory, and interact across multiple steps. Distinguishes agent evaluation from single-turn LLM assessment and presents a comprehensive framework spanning experimentation, simulation, human review, and production monitoring.
 
 ## Key Concepts
+- Multi-dimensional evaluation taxonomy: planning, tool-use, memory, robustness, safety, efficiency, observability
+- Benchmark references: HELM, AgentBench, GAIA, SWE-bench
+- LLM-as-a-judge methodology with reliability considerations
+- Four-pillar lifecycle: experimentation, simulation-driven evaluation, human-machine collaboration, production observability
+- Domain-specific applications: voice agents, RAG systems, coding copilots
+- Multi-provider testing via Bifrost LLM gateway
 
-### Seven Evaluation Dimensions
-1. **Planning and Trajectory** -- task decomposition and loop avoidance
-2. **Tool-Use Proficiency** -- selection accuracy and error handling
-3. **Memory and Context Management** -- recall fidelity and retrieval quality
-4. **Robustness and Reliability** -- performance under perturbations
-5. **Safety and Trust** -- policy violations and harmful outputs
-6. **Voice and Multimodal Quality** -- ASR accuracy and turn-taking for dialogue systems
-7. **Efficiency and Observability** -- latency, costs, and system visibility
-
-### Referenced Benchmarks
-- **AgentBench** -- multi-environment suite for tool-use and navigation
-- **GAIA** -- real-world assistant tasks requiring multimodal reasoning
-- **SWE-bench** -- software engineering task resolution measurement
-
-### Four-Pillar Lifecycle
-1. Experimentation and prompt engineering
-2. Simulation-driven evaluation
-3. Human-machine combined assessment
-4. Production observability and monitoring
-
-### LLM-as-Judge Guidance
-Use adjudication with multiple samples and consensus rules alongside calibration with gold-standard labels and continuous evaluator drift monitoring.
+Tags: #agents #ai #llm #testing

@@ -2,59 +2,69 @@
 title: "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System."
 url: "https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-3bkk"
 author: "PINGxCEO"
-category: "autonomous-operations"
+category: "startup-monetization"
 ---
 # Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.
-**Author:** PINGxCEO  **Published:** May 7, 2026
+**Author:** PINGxCEO  **Published:** 2026-05-07
 
 ## Overview
-The author describes launching a sophisticated multi-agent AI system within 12 hours while experiencing homelessness. The system progresses from a single-agent bot called "ZeroClaw" to a hierarchical architecture with CEO and auditor agents using CrewAI.
+A developer experiencing homelessness ships a sophisticated autonomous multi-agent system in a single day. Build-in-public documentation demonstrating real progress despite adversity, with the system running on a €13/month Google Cloud VM.
 
 ## Key Concepts
 
-### Config-Driven Self-Improvement
-Rather than allowing agents to modify Python code, the system uses YAML configuration files. When auditors identify improvements needed, they propose changes as structured YAML proposals:
+### Infrastructure
+- Google Cloud e2-small VM (2GB RAM, 2 shared vCPUs, €13/month)
+- SQLite for metrics tracking
+- Local YAML configuration files
+- ChromaDB for embedded memory
+- CrewAI framework (MIT licensed) with Gemini APIs
+- Total run cost: ~$0.02 per run using free tier APIs
 
-```yaml
-target_agent: researcher
-proposer: auditor_researcher
-changes:
-  - field: backstory
-    operation: append
-    value: "Also consult the HackerNews front page."
-```
+### Key Innovation: Config vs. Code Pattern
+Agents modify YAML configuration files rather than Python code. This prevents:
+- Hallucinated imports
+- Syntax errors
+- Security vulnerabilities
 
-"Every autonomous change is a git commit. You can `git revert` any bad decision in ten seconds."
+Each autonomous change becomes a reversible git commit — rapid experimentation with safety nets.
 
-### CEO Agent with KPI-Driven Decision Making
-The CEO agent optimizes against specific metrics (donations, followers, engagement rate, service inquiries, LLM costs) rather than abstract concepts. It:
-- Queries historical KPI data
-- Analyzes agent run logs
-- Reviews pending auditor proposals
-- Generates markdown strategic reports
+### System Components
 
-### Metrics Database
-SQLite database tracks all runs with three core tables: `runs`, `outputs`, `kpis`. The CEO agent demonstrated self-diagnosis by identifying its own previous failures and recommending fixes.
+**Three Primary Crews:**
+1. **Content Crew** — Researcher, Writer, and Reviewer agents
+2. **CEO Crew** — Strategic analysis and decision-making
+3. **Audit Crew** — Performance monitoring and improvement proposals
 
-### Technical Stack
-- **Hardware:** Google Cloud e2-small VM (2GB RAM, 2 vCPU, €13/month)
-- **LLMs:** Gemini Flash-Lite for worker agents, Gemini Pro for CEO reasoning
-- **Storage:** SQLite for metrics, YAML for configurations, ChromaDB for embeddings, plain markdown for documentation
-- **Software:** CrewAI 1.14 (MIT licensed), LiteLLM 1.83, Python venv on single VPS
+**CEO Agent Functionality:**
+Operates on hard KPIs rather than vague strategic reasoning:
+- Daily income (donations in EUR)
+- Audience growth metrics (followers across platforms)
+- Engagement rates
+- Service inquiries
+- LLM cost constraints
 
-### Three Crew Architectures
-1. **Content Crew** (Researcher → Writer → Reviewer)
-2. **CEO Crew** (strategic planning and KPI analysis)
-3. **Audit Crew** (per-worker evaluations producing proposals)
+### Accomplishments on Day 1
+- CEO agent reads KPIs every night and writes strategic reports with concrete recommendations
+- Auditor systems with configuration-change proposal capabilities
+- Config-driven self-improvement mechanism
+- Metrics database logging all agent runs
+- Tool iteration limits elevated (15 to 75), message history (50 to 200)
+- 17 passing smoke tests
+- CrewAI memory integration using Gemini embeddings
+- Public GitHub repository
 
-### Launch Results
-- 17 smoke tests passing
-- First CEO run completed in 31.7 seconds
-- Successful memory system enabling cross-run context
-- Cost: ~$0.02 in GCP credits
+### Real-World Validation
+"[The CEO agent] ran, looked at the metrics DB, found its own four previous failed runs, diagnosed them correctly, and wrote a report with action items."
+
+### Business Model
+- Buy Me a Coffee and Ko-fi platforms
+- Professional implementation services: multi-agent system setup starting at €100
+- Open-source code repository
 
 ### Challenges Encountered
-1. VPS disk space exhausted during dependency installation
-2. Environment variable propagation in non-interactive shells
-3. CrewAI embedder provider specification errors
-4. GitHub token accidentally exposed in logs
+- Missing VPS packages (rsync, python3-venv)
+- Disk space constraints during dependency installation
+- LLM provider specification mismatches
+- Accidental credential exposure (GitHub token leak requiring rotation)
+
+All failures captured in the metrics database, enabling the CEO system to propose operational improvements.
