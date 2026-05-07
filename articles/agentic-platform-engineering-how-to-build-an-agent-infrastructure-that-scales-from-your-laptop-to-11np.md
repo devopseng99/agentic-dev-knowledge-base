@@ -2,7 +2,7 @@
 title: "Agentic Platform Engineering: How to Build an Agent Infrastructure That Scales From Your Laptop to the Enterprise"
 url: "https://dev.to/sarony11/agentic-platform-engineering-how-to-build-an-agent-infrastructure-that-scales-from-your-laptop-to-11np"
 author: "Saul Fernandez"
-category: "llmops-infra"
+category: "multi-cloud-durable"
 ---
 
 # Agentic Platform Engineering: How to Build an Agent Infrastructure That Scales
@@ -10,38 +10,27 @@ category: "llmops-infra"
 **Published:** March 19, 2026
 
 ## Overview
-Systematic approach to managing AI agent configuration as infrastructure through three repositories: agent-library (intelligence core), agent-setup (tool adapter), and resource-catalog (system map). Covers token efficiency, disaster recovery, and enterprise scaling.
+Introduces Agentic Platform Engineering as a discipline: treat agent intelligence as infrastructure, not improvisation. Proposes a three-repository architecture (agent-library, agent-setup, resource-catalog) with directory-scoped layers, skills, and symlink-based deployment for token efficiency and disaster recovery in under 5 minutes.
 
 ## Key Concepts
 
-### Three Repository Architecture
-1. **agent-library** - Single source of truth for agent knowledge and behavior; contains layers, skills, rules
-2. **agent-setup** - Bridges tool-agnostic brain with specific AI platforms via symlinks
-3. **resource-catalog** - Backstage-format index of all owned systems, repos, and tools
+Three-repository separation:
 
-### Cumulative Layer Loading
-```plaintext
-~/.agent/AGENTS.md              -> global.md (universal principles)
-~/repos/AGENTS.md               -> repos.md (git conventions)
-~/repos/work/AGENTS.md          -> work/domain.md (conservative rules)
-~/repos/work/terraform/AGENTS.md -> work/terraform.md (terraform workflow)
+```
+agent-library/    <- The brain (tool-agnostic intelligence)
+agent-setup/      <- The bridge (tool-specific deployment)
+resource-catalog/ <- The map (inventory of everything)
 ```
 
-### Disaster Recovery (5 minutes)
+Layers load cumulatively by directory. In ~/repos/work/terraform/, the agent loads: global.md (identity), repos.md (git conventions), work/domain.md (conservative mode), work/terraform.md (terraform workflow). Only 8 skills loaded (6 global + 1 domain + 1 directory-specific), not dozens.
+
+Disaster recovery in under 5 minutes:
+
 ```bash
-git clone git@github.com:username/agent-library.git
-git clone git@github.com:username/agent-setup.git
-git clone git@github.com:username/resource-catalog.git
+git clone git@github.com:your-username/agent-library.git
+git clone git@github.com:your-username/agent-setup.git
+git clone git@github.com:your-username/resource-catalog.git
 cd agent-setup && bash setup.sh
 ```
 
-### Token Efficiency
-- Directory-based activation loads only relevant layers
-- Relevance filtering: 2-10 skills loaded vs dozens
-- Meta-skill containment prevents irrelevant context injection
-- Reduces token consumption from 10-20k to 2-4k per context
-
-### Enterprise Scaling
-- CI/CD pipelines compile agent-capabilities.json from library.yaml
-- Published to `.well-known/agent-capabilities.json` endpoints
-- External agents discover capabilities at runtime via RFC 8615
+The architecture mirrors package managers: library.yaml = package.json, setup.sh = npm install, Layers = source modules, Skills = function library. Cross-organization agent discovery uses RFC 8615 (.well-known/) as a network-routable service registry.
