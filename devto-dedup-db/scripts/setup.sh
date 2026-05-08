@@ -46,7 +46,8 @@ curl -sf -X POST "$SURREAL_URL/sql" \
     DEFINE FIELD url ON articles TYPE string;
     DEFINE FIELD category ON articles TYPE string;
     DEFINE FIELD collected_at ON articles TYPE datetime VALUE time::now() READONLY;
-    DEFINE INDEX slug_idx ON articles FIELDS slug UNIQUE;
+    -- No separate unique index needed: slug IS the record ID (articles:⟨slug⟩)
+    -- record::exists(r'articles:slug') does O(1) ID lookup
   "
 echo "Schema created."
 
@@ -61,7 +62,7 @@ for f in "$ARTICLES_DIR"/*.md; do
   url=$(grep '^url:' "$f" 2>/dev/null | head -1 | sed 's/^url: *"//' | sed 's/"$//')
   category=$(grep '^category:' "$f" 2>/dev/null | head -1 | sed 's/^category: *"//' | sed 's/"$//')
 
-  batch="${batch} INSERT IGNORE INTO articles { slug: '${slug}', title: '${title}', url: '${url}', category: '${category}' };"
+  batch="${batch} INSERT IGNORE INTO articles { id: articles:⟨${slug}⟩, slug: '${slug}', title: '${title}', url: '${url}', category: '${category}' };"
   count=$((count + 1))
 
   if [ $((count % batch_size)) -eq 0 ]; then

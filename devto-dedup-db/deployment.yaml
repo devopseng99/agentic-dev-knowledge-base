@@ -26,7 +26,7 @@ spec:
             - --user=$(SURREAL_USER)
             - --pass=$(SURREAL_PASS)
             - --bind=0.0.0.0:8000
-            - file:///data/devto.db
+            - rocksdb:///data/devto.db
           env:
             - name: SURREAL_USER
               valueFrom:

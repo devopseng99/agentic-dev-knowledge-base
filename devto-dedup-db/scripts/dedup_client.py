@@ -83,8 +83,9 @@ class DedupClient:
 
         slug_safe = slug.replace("'", "\\'")
         try:
+            # record::exists() is faster than SELECT — single index lookup, no row scan
             result = self._sql(
-                f"SELECT slug FROM articles WHERE slug = '{slug_safe}' LIMIT 1;"
+                f"RETURN record::exists(r'articles:{slug_safe}');"
             )
             return bool(result[0].get("result"))
         except Exception:
@@ -105,8 +106,10 @@ class DedupClient:
         cat_safe     = category.replace("'", "\\'")
 
         try:
+            # Use slug as record ID → enables record::exists(r'articles:slug') fast-path
             self._sql(
                 f"INSERT IGNORE INTO articles {{ "
+                f"id: articles:⟨{slug_safe}⟩, "
                 f"slug: '{slug_safe}', "
                 f"title: '{title_safe}', "
                 f"url: '{url_safe}', "
