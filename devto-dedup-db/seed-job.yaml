@@ -1,0 +1,50 @@
+# One-time Job to seed SurrealDB with all existing article slugs
+# Run: kubectl apply -f seed-job.yaml
+# After completion: kubectl delete job surrealdb-seed -n devto-dedup
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: surrealdb-seed
+  namespace: devto-dedup
+spec:
+  ttlSecondsAfterFinished: 600
+  template:
+    spec:
+      nodeSelector:
+        kubernetes.io/hostname: mgplcb05
+      restartPolicy: OnFailure
+      containers:
+        - name: seeder
+          image: alpine/curl:8.5.0
+          env:
+            - name: SURREAL_USER
+              valueFrom:
+                secretKeyRef:
+                  name: surrealdb-creds
+                  key: username
+            - name: SURREAL_PASS
+              valueFrom:
+                secretKeyRef:
+                  name: surrealdb-creds
+                  key: password
+          command: ["/bin/sh", "-c"]
+          args:
+            - |
+              set -e
+              SURREAL_URL="http://surrealdb.devto-dedup.svc.cluster.local:8000"
+
+              echo "Waiting for SurrealDB..."
+              until curl -sf "$SURREAL_URL/health"; do sleep 2; done
+              echo "SurrealDB ready."
+
+              # Create namespace/database
+              curl -sf -X POST "$SURREAL_URL/sql" \
+                -u "$SURREAL_USER:$SURREAL_PASS" \
+                -H "surreal-ns: devto" \
+                -H "surreal-db: articles" \
+                -H "Content-Type: text/plain" \
+                -d "DEFINE TABLE articles SCHEMAFULL; DEFINE FIELD slug ON articles TYPE string; DEFINE FIELD title ON articles TYPE string; DEFINE FIELD url ON articles TYPE string; DEFINE FIELD category ON articles TYPE string; DEFINE FIELD collected_at ON articles TYPE datetime; DEFINE INDEX slug_idx ON articles FIELDS slug UNIQUE;"
+
+              echo "Schema created. Seeding slugs from mounted volume..."
+              # Slugs will be injected via ConfigMap or by the setup script below
+              echo "Seed job complete — run the host-side seed script to bulk-load slugs"
