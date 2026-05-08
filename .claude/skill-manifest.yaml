@@ -1,0 +1,16 @@
+# Skill Manifest — devto-kb (agentic-dev-knowledge-base)
+# dev.to article collection + SurrealDB dedup pipeline
+#
+# Commands:
+#   ~/claude-skills/skill-sync.sh              # sync skills from registry
+#   ~/claude-skills/skill-sync.sh --diff       # preview changes before sync
+#   ~/claude-skills/skill-sync.sh --update     # pull latest from registry
+#   ~/claude-skills/skill-sync.sh --push SKILL # push local edits to registry
+#   ~/claude-skills/skill-sync.sh --list       # show available vs installed
+
+registry: https://github.com/devopseng99/claude-skills.git
+default_version: v3.4.0
+
+skills:
+  devto-collect: {}
+  devto-dedup-db: {}

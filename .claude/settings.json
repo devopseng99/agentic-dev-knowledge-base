@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(kubectl:*)",
+      "Bash(python3:*)",
+      "Bash(curl:*)",
+      "Bash(git:*)",
+      "Bash(gh:*)"
+    ]
+  }
+}
